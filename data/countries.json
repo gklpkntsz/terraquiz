@@ -26,8 +26,8 @@
     "currency": "AFN (؋)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 33.0,
-    "lng": 65.0,
+    "lat": 33,
+    "lng": 65,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -44,7 +44,10 @@
         "lat": 36.71,
         "lng": 67.11
       }
-    ]
+    ],
+    "currencyEn": "Afghan Afghani (؋)",
+    "currencyTr": "Afganistan afganisi (؋)",
+    "areaKm2": 652864
   },
   {
     "code": "AL",
@@ -69,8 +72,8 @@
     "currency": "ALL (L)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 41.0,
-    "lng": 20.0,
+    "lat": 41,
+    "lng": 20,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -87,7 +90,10 @@
         "lat": 40.47,
         "lng": 19.48
       }
-    ]
+    ],
+    "currencyEn": "Albanian Lek (L)",
+    "currencyTr": "Arnavutluk leki (L)",
+    "areaKm2": 28748
   },
   {
     "code": "DZ",
@@ -112,8 +118,8 @@
     "currency": "DZD (د.ج)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 28.0,
-    "lng": 3.0,
+    "lat": 28,
+    "lng": 3,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -130,7 +136,10 @@
         "lat": 36.37,
         "lng": 6.61
       }
-    ]
+    ],
+    "currencyEn": "Algerian Dinar (د.ج)",
+    "currencyTr": "Cezayir dinarı (د.ج)",
+    "areaKm2": 2381741
   },
   {
     "code": "AS",
@@ -156,11 +165,14 @@
     "category": "territory",
     "sportsDelegation": true,
     "lat": -14.33333333,
-    "lng": -170.0,
+    "lng": -170,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "US Dollar ($)",
+    "currencyTr": "ABD Doları ($)",
+    "areaKm2": 199
   },
   {
     "code": "AD",
@@ -197,7 +209,10 @@
         "lat": 42.51,
         "lng": 1.53
       }
-    ]
+    ],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 468
   },
   {
     "code": "AO",
@@ -240,7 +255,10 @@
         "lat": -12.36,
         "lng": 13.55
       }
-    ]
+    ],
+    "currencyEn": "Angolan Kwanza (Kz)",
+    "currencyTr": "Angola kvanzası (Kz)",
+    "areaKm2": 1246700
   },
   {
     "code": "AI",
@@ -267,7 +285,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "East Caribbean Dollar ($)",
+    "currencyTr": "Doğu Karayip doları ($)",
+    "areaKm2": 91
   },
   {
     "code": "AQ",
@@ -278,7 +299,7 @@
     "capitalTr": "Antarctica",
     "capitalAliases": [],
     "continent": "Antarctica",
-    "subregion": "",
+    "subregion": "Antarctica",
     "population": 1100,
     "languagesEn": [
       "None"
@@ -289,12 +310,15 @@
     "currency": "-",
     "similarityGroup": "",
     "category": "territory",
-    "lat": -90.0,
-    "lng": 0.0,
+    "lat": -90,
+    "lng": 0,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "None",
+    "currencyTr": "Yok",
+    "areaKm2": 14200000
   },
   {
     "code": "AG",
@@ -323,7 +347,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "East Caribbean Dollar ($)",
+    "currencyTr": "Doğu Karayip doları ($)",
+    "areaKm2": 442
   },
   {
     "code": "AR",
@@ -350,8 +377,8 @@
     "currency": "ARS ($)",
     "similarityGroup": "rio_de_la_plata",
     "category": "sovereign",
-    "lat": -34.0,
-    "lng": -64.0,
+    "lat": -34,
+    "lng": -64,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -368,7 +395,10 @@
         "lat": -32.95,
         "lng": -60.64
       }
-    ]
+    ],
+    "currencyEn": "Argentine Peso ($)",
+    "currencyTr": "Arjantin pesosu ($)",
+    "areaKm2": 2780400
   },
   {
     "code": "AM",
@@ -393,8 +423,8 @@
     "currency": "AMD (֏)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 40.0,
-    "lng": 45.0,
+    "lat": 40,
+    "lng": 45,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -411,7 +441,10 @@
         "lat": 40.81,
         "lng": 44.5
       }
-    ]
+    ],
+    "currencyEn": "Armenian Dram (֏)",
+    "currencyTr": "Ermenistan dramı (֏)",
+    "areaKm2": 29743
   },
   {
     "code": "AW",
@@ -454,7 +487,10 @@
         "lat": 12.54,
         "lng": -70.02
       }
-    ]
+    ],
+    "currencyEn": "Aruban Florin (ƒ)",
+    "currencyTr": "Aruba florini (ƒ)",
+    "areaKm2": 180
   },
   {
     "code": "AU",
@@ -479,8 +515,8 @@
     "currency": "AUD ($)",
     "similarityGroup": "australia_nz",
     "category": "sovereign",
-    "lat": -27.0,
-    "lng": 133.0,
+    "lat": -27,
+    "lng": 133,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -497,7 +533,10 @@
         "lat": -37.81,
         "lng": 144.96
       }
-    ]
+    ],
+    "currencyEn": "Australian Dollar ($)",
+    "currencyTr": "Avustralya doları ($)",
+    "areaKm2": 7692024
   },
   {
     "code": "AT",
@@ -542,7 +581,10 @@
         "lat": 47.8,
         "lng": 13.04
       }
-    ]
+    ],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 83879
   },
   {
     "code": "AZ",
@@ -587,7 +629,10 @@
         "lat": 40.68,
         "lng": 46.36
       }
-    ]
+    ],
+    "currencyEn": "Azerbaijani Manat (₼)",
+    "currencyTr": "Azerbaycan manatı (₼)",
+    "areaKm2": 86600
   },
   {
     "code": "BS",
@@ -613,7 +658,7 @@
     "similarityGroup": "",
     "category": "sovereign",
     "lat": 24.25,
-    "lng": -76.0,
+    "lng": -76,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -630,7 +675,10 @@
         "lat": 25.05,
         "lng": -77.42
       }
-    ]
+    ],
+    "currencyEn": "Bahamian Dollar ($)",
+    "currencyTr": "Bahama doları ($)",
+    "areaKm2": 13943
   },
   {
     "code": "BH",
@@ -655,7 +703,7 @@
     "currency": "BHD (.د.ب)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 26.0,
+    "lat": 26,
     "lng": 50.55,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
@@ -673,7 +721,10 @@
         "lat": 26.12,
         "lng": 50.51
       }
-    ]
+    ],
+    "currencyEn": "Bahraini Dinar (.د.ب)",
+    "currencyTr": "Bahreyn dinarı (.د.ب)",
+    "areaKm2": 786
   },
   {
     "code": "BD",
@@ -700,8 +751,8 @@
     "currency": "BDT (৳)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 24.0,
-    "lng": 90.0,
+    "lat": 24,
+    "lng": 90,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -718,7 +769,10 @@
         "lat": 22.81,
         "lng": 89.56
       }
-    ]
+    ],
+    "currencyEn": "Bangladeshi Taka (৳)",
+    "currencyTr": "Bangladeş takası (৳)",
+    "areaKm2": 148460
   },
   {
     "code": "BB",
@@ -745,7 +799,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "Barbadian Dollar ($)",
+    "currencyTr": "Barbados doları ($)",
+    "areaKm2": 430
   },
   {
     "code": "BY",
@@ -774,8 +831,8 @@
     "currency": "BYN (Br)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 53.0,
-    "lng": 28.0,
+    "lat": 53,
+    "lng": 28,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -792,7 +849,10 @@
         "lat": 53.68,
         "lng": 23.83
       }
-    ]
+    ],
+    "currencyEn": "Belarusian Ruble (Br)",
+    "currencyTr": "Belarus rublesi (Br)",
+    "areaKm2": 207600
   },
   {
     "code": "BE",
@@ -825,7 +885,7 @@
     "similarityGroup": "",
     "category": "sovereign",
     "lat": 50.83333333,
-    "lng": 4.0,
+    "lng": 4,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -842,7 +902,10 @@
         "lat": 51.05,
         "lng": 3.72
       }
-    ]
+    ],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 30528
   },
   {
     "code": "BZ",
@@ -886,7 +949,10 @@
         "lat": 17.92,
         "lng": -87.97
       }
-    ]
+    ],
+    "currencyEn": "Belize Dollar ($)",
+    "currencyTr": "Belize doları ($)",
+    "areaKm2": 22966
   },
   {
     "code": "BJ",
@@ -931,7 +997,10 @@
         "lat": 9.34,
         "lng": 2.63
       }
-    ]
+    ],
+    "currencyEn": "West African CFA Franc (Fr)",
+    "currencyTr": "Batı Afrika CFA frangı (Fr)",
+    "areaKm2": 114763
   },
   {
     "code": "BM",
@@ -961,7 +1030,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "Bermudan Dollar ($)",
+    "currencyTr": "Bermuda doları ($)",
+    "areaKm2": 54
   },
   {
     "code": "BT",
@@ -1004,7 +1076,10 @@
         "lat": 27.02,
         "lng": 90.12
       }
-    ]
+    ],
+    "currencyEn": "Bhutanese Ngultrum (Nu.)",
+    "currencyTr": "Butan ngultrumu (Nu.)",
+    "areaKm2": 38394
   },
   {
     "code": "BO",
@@ -1040,8 +1115,8 @@
     "currency": "BOB (Bs.)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": -17.0,
-    "lng": -65.0,
+    "lat": -17,
+    "lng": -65,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -1058,7 +1133,10 @@
         "lat": -17.39,
         "lng": -66.16
       }
-    ]
+    ],
+    "currencyEn": "Bolivian Boliviano (Bs.)",
+    "currencyTr": "Bolivya bolivyanosu (Bs.)",
+    "areaKm2": 1098581
   },
   {
     "code": "BA",
@@ -1089,8 +1167,8 @@
     "currency": "BAM (KM)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 44.0,
-    "lng": 18.0,
+    "lat": 44,
+    "lng": 18,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -1107,7 +1185,10 @@
         "lat": 44.2,
         "lng": 17.9
       }
-    ]
+    ],
+    "currencyEn": "Bosnia-Herzegovina Convertible Mark (KM)",
+    "currencyTr": "Konvertibl Bosna Hersek markı (KM)",
+    "areaKm2": 51209
   },
   {
     "code": "BW",
@@ -1134,8 +1215,8 @@
     "currency": "BWP (P)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": -22.0,
-    "lng": 24.0,
+    "lat": -22,
+    "lng": 24,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -1152,7 +1233,10 @@
         "lat": -24.63,
         "lng": 25.87
       }
-    ]
+    ],
+    "currencyEn": "Botswanan Pula (P)",
+    "currencyTr": "Botsvana pulası (P)",
+    "areaKm2": 581730
   },
   {
     "code": "BV",
@@ -1179,7 +1263,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "None",
+    "currencyTr": "Yok",
+    "areaKm2": 49
   },
   {
     "code": "BR",
@@ -1204,8 +1291,8 @@
     "currency": "BRL (R$)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": -10.0,
-    "lng": -55.0,
+    "lat": -10,
+    "lng": -55,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -1222,7 +1309,10 @@
         "lat": -22.91,
         "lng": -43.18
       }
-    ]
+    ],
+    "currencyEn": "Brazilian Real (R$)",
+    "currencyTr": "Brezilya reali (R$)",
+    "areaKm2": 8515767
   },
   {
     "code": "IO",
@@ -1244,12 +1334,15 @@
     "currency": "USD ($)",
     "similarityGroup": "",
     "category": "territory",
-    "lat": -6.0,
+    "lat": -6,
     "lng": 71.5,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "US Dollar ($)",
+    "currencyTr": "ABD Doları ($)",
+    "areaKm2": 60
   },
   {
     "code": "VG",
@@ -1281,7 +1374,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "US Dollar ($)",
+    "currencyTr": "ABD Doları ($)",
+    "areaKm2": 151
   },
   {
     "code": "BN",
@@ -1326,7 +1422,10 @@
         "lat": 4.97,
         "lng": 115.02
       }
-    ]
+    ],
+    "currencyEn": "Brunei Dollar ($)",
+    "currencyTr": "Brunei doları ($)",
+    "areaKm2": 5765
   },
   {
     "code": "BG",
@@ -1351,8 +1450,8 @@
     "currency": "EUR (€)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 43.0,
-    "lng": 25.0,
+    "lat": 43,
+    "lng": 25,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -1369,7 +1468,10 @@
         "lat": 43.22,
         "lng": 27.91
       }
-    ]
+    ],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 110994
   },
   {
     "code": "BF",
@@ -1391,8 +1493,8 @@
     "currency": "XOF (Fr)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 13.0,
-    "lng": -2.0,
+    "lat": 13,
+    "lng": -2,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -1409,7 +1511,10 @@
         "lat": 12.25,
         "lng": -2.37
       }
-    ]
+    ],
+    "currencyEn": "West African CFA Franc (Fr)",
+    "currencyTr": "Batı Afrika CFA frangı (Fr)",
+    "areaKm2": 274222
   },
   {
     "code": "BI",
@@ -1439,7 +1544,7 @@
     "similarityGroup": "",
     "category": "sovereign",
     "lat": -3.5,
-    "lng": 30.0,
+    "lng": 30,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -1456,7 +1561,10 @@
         "lat": -2.85,
         "lng": 30.34
       }
-    ]
+    ],
+    "currencyEn": "Burundian Franc (Fr)",
+    "currencyTr": "Burundi frangı (Fr)",
+    "areaKm2": 27834
   },
   {
     "code": "KH",
@@ -1484,8 +1592,8 @@
     "currency": "KHR (៛)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 13.0,
-    "lng": 105.0,
+    "lat": 13,
+    "lng": 105,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -1502,7 +1610,10 @@
         "lat": 13.1,
         "lng": 103.2
       }
-    ]
+    ],
+    "currencyEn": "Cambodian Riel (៛)",
+    "currencyTr": "Kamboçya rieli (៛)",
+    "areaKm2": 181035
   },
   {
     "code": "CM",
@@ -1529,8 +1640,8 @@
     "currency": "XAF (Fr)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 6.0,
-    "lng": 12.0,
+    "lat": 6,
+    "lng": 12,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -1547,7 +1658,10 @@
         "lat": 5.96,
         "lng": 10.15
       }
-    ]
+    ],
+    "currencyEn": "Central African CFA Franc (Fr)",
+    "currencyTr": "Orta Afrika CFA frangı (Fr)",
+    "areaKm2": 475442
   },
   {
     "code": "CA",
@@ -1571,8 +1685,8 @@
     "currency": "CAD ($)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 60.0,
-    "lng": -95.0,
+    "lat": 60,
+    "lng": -95,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -1589,7 +1703,10 @@
         "lat": 45.51,
         "lng": -73.59
       }
-    ]
+    ],
+    "currencyEn": "Canadian Dollar ($)",
+    "currencyTr": "Kanada doları ($)",
+    "areaKm2": 9984670
   },
   {
     "code": "CV",
@@ -1616,8 +1733,8 @@
     "currency": "CVE (Esc)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 16.0,
-    "lng": -24.0,
+    "lat": 16,
+    "lng": -24,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -1634,7 +1751,10 @@
         "lat": 16.76,
         "lng": -22.94
       }
-    ]
+    ],
+    "currencyEn": "Cape Verdean Escudo (Esc)",
+    "currencyTr": "Cape Verde esküdosu (Esc)",
+    "areaKm2": 4033
   },
   {
     "code": "BQ",
@@ -1667,7 +1787,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "US Dollar ($)",
+    "currencyTr": "ABD Doları ($)",
+    "areaKm2": 328
   },
   {
     "code": "KY",
@@ -1702,7 +1825,10 @@
         "lat": 19.38,
         "lng": -81.39
       }
-    ]
+    ],
+    "currencyEn": "Cayman Islands Dollar ($)",
+    "currencyTr": "Cayman Adaları doları ($)",
+    "areaKm2": 264
   },
   {
     "code": "CF",
@@ -1729,8 +1855,8 @@
     "currency": "XAF (Fr)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 7.0,
-    "lng": 21.0,
+    "lat": 7,
+    "lng": 21,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -1747,7 +1873,10 @@
         "lat": 4.26,
         "lng": 15.79
       }
-    ]
+    ],
+    "currencyEn": "Central African CFA Franc (Fr)",
+    "currencyTr": "Orta Afrika CFA frangı (Fr)",
+    "areaKm2": 622984
   },
   {
     "code": "TD",
@@ -1774,8 +1903,8 @@
     "currency": "XAF (Fr)",
     "similarityGroup": "chad_romania",
     "category": "sovereign",
-    "lat": 15.0,
-    "lng": 19.0,
+    "lat": 15,
+    "lng": 19,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -1792,7 +1921,10 @@
         "lat": 13.83,
         "lng": 20.83
       }
-    ]
+    ],
+    "currencyEn": "Central African CFA Franc (Fr)",
+    "currencyTr": "Orta Afrika CFA frangı (Fr)",
+    "areaKm2": 1284000
   },
   {
     "code": "CL",
@@ -1819,8 +1951,8 @@
     "currency": "CLP ($)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": -30.0,
-    "lng": -71.0,
+    "lat": -30,
+    "lng": -71,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -1837,7 +1969,10 @@
         "lat": -33.02,
         "lng": -71.55
       }
-    ]
+    ],
+    "currencyEn": "Chilean Peso ($)",
+    "currencyTr": "Şili pesosu ($)",
+    "areaKm2": 756102
   },
   {
     "code": "CN",
@@ -1864,8 +1999,8 @@
     "currency": "CNY (¥)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 35.0,
-    "lng": 105.0,
+    "lat": 35,
+    "lng": 105,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -1882,7 +2017,10 @@
         "lat": 29.56,
         "lng": 106.56
       }
-    ]
+    ],
+    "currencyEn": "Chinese Yuan (¥)",
+    "currencyTr": "Çin yuanı (¥)",
+    "areaKm2": 9596961
   },
   {
     "code": "CX",
@@ -1911,7 +2049,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "Australian Dollar ($)",
+    "currencyTr": "Avustralya doları ($)",
+    "areaKm2": 135
   },
   {
     "code": "CC",
@@ -1942,7 +2083,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "Australian Dollar ($)",
+    "currencyTr": "Avustralya doları ($)",
+    "areaKm2": 14
   },
   {
     "code": "CO",
@@ -1967,8 +2111,8 @@
     "currency": "COP ($)",
     "similarityGroup": "gran_colombia",
     "category": "sovereign",
-    "lat": 4.0,
-    "lng": -72.0,
+    "lat": 4,
+    "lng": -72,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -1985,7 +2129,10 @@
         "lat": 6.25,
         "lng": -75.57
       }
-    ]
+    ],
+    "currencyEn": "Colombian Peso ($)",
+    "currencyTr": "Kolombiya pesosu ($)",
+    "areaKm2": 1141748
   },
   {
     "code": "KM",
@@ -2032,7 +2179,10 @@
         "lat": -12.29,
         "lng": 43.74
       }
-    ]
+    ],
+    "currencyEn": "Comorian Franc (Fr)",
+    "currencyTr": "Komorlar frangı (Fr)",
+    "areaKm2": 1861
   },
   {
     "code": "CG",
@@ -2062,8 +2212,8 @@
     "currency": "XAF (Fr)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": -1.0,
-    "lng": 15.0,
+    "lat": -1,
+    "lng": 15,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -2080,7 +2230,10 @@
         "lat": -4.2,
         "lng": 12.67
       }
-    ]
+    ],
+    "currencyEn": "Central African CFA Franc (Fr)",
+    "currencyTr": "Orta Afrika CFA frangı (Fr)",
+    "areaKm2": 342000
   },
   {
     "code": "CK",
@@ -2110,7 +2263,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "Cook Islands Dollar ($)",
+    "currencyTr": "Cook Adaları Doları ($)",
+    "areaKm2": 236
   },
   {
     "code": "CR",
@@ -2135,8 +2291,8 @@
     "currency": "CRC (₡)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 10.0,
-    "lng": -84.0,
+    "lat": 10,
+    "lng": -84,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -2153,7 +2309,10 @@
         "lat": 10.02,
         "lng": -84.21
       }
-    ]
+    ],
+    "currencyEn": "Costa Rican Colón (₡)",
+    "currencyTr": "Kosta Rika kolonu (₡)",
+    "areaKm2": 51100
   },
   {
     "code": "HR",
@@ -2196,7 +2355,10 @@
         "lat": 45.33,
         "lng": 14.44
       }
-    ]
+    ],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 56594
   },
   {
     "code": "CU",
@@ -2222,7 +2384,7 @@
     "similarityGroup": "",
     "category": "sovereign",
     "lat": 21.5,
-    "lng": -80.0,
+    "lng": -80,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -2239,7 +2401,10 @@
         "lat": 20.89,
         "lng": -76.26
       }
-    ]
+    ],
+    "currencyEn": "Cuban Convertible Peso ($)",
+    "currencyTr": "Konvertibl Küba pesosu ($)",
+    "areaKm2": 109884
   },
   {
     "code": "CW",
@@ -2279,7 +2444,10 @@
         "lat": 12.09,
         "lng": -68.83
       }
-    ]
+    ],
+    "currencyEn": "Netherlands Antillean Guilder (ƒ)",
+    "currencyTr": "Hollanda Antilleri guldeni (ƒ)",
+    "areaKm2": 444
   },
   {
     "code": "CY",
@@ -2309,8 +2477,8 @@
     "currency": "EUR (€)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 35.0,
-    "lng": 33.0,
+    "lat": 35,
+    "lng": 33,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -2327,7 +2495,10 @@
         "lat": 34.92,
         "lng": 33.63
       }
-    ]
+    ],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 9251
   },
   {
     "code": "CZ",
@@ -2375,7 +2546,10 @@
         "lat": 49.83,
         "lng": 18.28
       }
-    ]
+    ],
+    "currencyEn": "Czech Koruna (Kč)",
+    "currencyTr": "Çek korunası (Kč)",
+    "areaKm2": 78871
   },
   {
     "code": "CD",
@@ -2413,8 +2587,8 @@
     "currency": "CDF (FC)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 0.0,
-    "lng": 25.0,
+    "lat": 0,
+    "lng": 25,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -2431,7 +2605,10 @@
         "lat": -6.14,
         "lng": 23.59
       }
-    ]
+    ],
+    "currencyEn": "Congolese Franc (FC)",
+    "currencyTr": "Kongo frangı (FC)",
+    "areaKm2": 2344858
   },
   {
     "code": "DK",
@@ -2458,8 +2635,8 @@
     "currency": "DKK (kr)",
     "similarityGroup": "nordic_simple",
     "category": "sovereign",
-    "lat": 56.0,
-    "lng": 10.0,
+    "lat": 56,
+    "lng": 10,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -2476,7 +2653,10 @@
         "lat": 55.4,
         "lng": 10.39
       }
-    ]
+    ],
+    "currencyEn": "Danish Krone (kr)",
+    "currencyTr": "Danimarka kronu (kr)",
+    "areaKm2": 42952
   },
   {
     "code": "DJ",
@@ -2504,7 +2684,7 @@
     "similarityGroup": "",
     "category": "sovereign",
     "lat": 11.5,
-    "lng": 43.0,
+    "lng": 43,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -2521,7 +2701,10 @@
         "lat": 11.1,
         "lng": 42.37
       }
-    ]
+    ],
+    "currencyEn": "Djiboutian Franc (Fr)",
+    "currencyTr": "Cibuti frangı (Fr)",
+    "areaKm2": 23200
   },
   {
     "code": "DM",
@@ -2551,7 +2734,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "East Caribbean Dollar ($)",
+    "currencyTr": "Doğu Karayip doları ($)",
+    "areaKm2": 751
   },
   {
     "code": "DO",
@@ -2573,7 +2759,7 @@
     "currency": "DOP ($)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 19.0,
+    "lat": 19,
     "lng": -70.66666666,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
@@ -2591,7 +2777,10 @@
         "lat": 18.45,
         "lng": -69.31
       }
-    ]
+    ],
+    "currencyEn": "Dominican Peso ($)",
+    "currencyTr": "Dominik pesosu ($)",
+    "areaKm2": 48671
   },
   {
     "code": "EC",
@@ -2616,7 +2805,7 @@
     "currency": "USD ($)",
     "similarityGroup": "gran_colombia",
     "category": "sovereign",
-    "lat": -2.0,
+    "lat": -2,
     "lng": -77.5,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
@@ -2632,9 +2821,12 @@
         "en": "Cuenca",
         "tr": "Cuenca",
         "lat": -2.9,
-        "lng": -79.0
+        "lng": -79
       }
-    ]
+    ],
+    "currencyEn": "US Dollar ($)",
+    "currencyTr": "ABD Doları ($)",
+    "areaKm2": 276841
   },
   {
     "code": "EG",
@@ -2659,8 +2851,8 @@
     "currency": "EGP (£)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 27.0,
-    "lng": 30.0,
+    "lat": 27,
+    "lng": 30,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -2677,7 +2869,10 @@
         "lat": 30.01,
         "lng": 31.21
       }
-    ]
+    ],
+    "currencyEn": "Egyptian Pound (£)",
+    "currencyTr": "Mısır lirası (£)",
+    "areaKm2": 1002450
   },
   {
     "code": "SV",
@@ -2720,7 +2915,10 @@
         "lat": 13.99,
         "lng": -89.56
       }
-    ]
+    ],
+    "currencyEn": "US Dollar ($)",
+    "currencyTr": "ABD Doları ($)",
+    "areaKm2": 21041
   },
   {
     "code": "GB-ENG",
@@ -2761,7 +2959,10 @@
         "lat": 53.48,
         "lng": -2.24
       }
-    ]
+    ],
+    "currencyEn": "British Pound (£)",
+    "currencyTr": "İngiliz Sterlini (£)",
+    "areaKm2": 130279
   },
   {
     "code": "GQ",
@@ -2792,8 +2993,8 @@
     "currency": "XAF (Fr)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 2.0,
-    "lng": 10.0,
+    "lat": 2,
+    "lng": 10,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -2810,7 +3011,10 @@
         "lat": 2.15,
         "lng": 11.33
       }
-    ]
+    ],
+    "currencyEn": "Central African CFA Franc (Fr)",
+    "currencyTr": "Orta Afrika CFA frangı (Fr)",
+    "areaKm2": 28051
   },
   {
     "code": "ER",
@@ -2839,8 +3043,8 @@
     "currency": "ERN (Nfk)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 15.0,
-    "lng": 39.0,
+    "lat": 15,
+    "lng": 39,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -2857,7 +3061,10 @@
         "lat": 14.3,
         "lng": 36.61
       }
-    ]
+    ],
+    "currencyEn": "Eritrean Nakfa (Nfk)",
+    "currencyTr": "Eritre nakfası (Nfk)",
+    "areaKm2": 117600
   },
   {
     "code": "EE",
@@ -2882,8 +3089,8 @@
     "currency": "EUR (€)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 59.0,
-    "lng": 26.0,
+    "lat": 59,
+    "lng": 26,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -2900,7 +3107,10 @@
         "lat": 59.38,
         "lng": 28.19
       }
-    ]
+    ],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 45339
   },
   {
     "code": "SZ",
@@ -2951,7 +3161,10 @@
         "lat": -26.5,
         "lng": 31.38
       }
-    ]
+    ],
+    "currencyEn": "Swazi Lilangeni (L)",
+    "currencyTr": "Svaziland lilangenisi (L)",
+    "areaKm2": 17364
   },
   {
     "code": "ET",
@@ -2979,8 +3192,8 @@
     "currency": "ETB (Br)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 8.0,
-    "lng": 38.0,
+    "lat": 8,
+    "lng": 38,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -2997,7 +3210,10 @@
         "lat": 12.6,
         "lng": 37.47
       }
-    ]
+    ],
+    "currencyEn": "Ethiopian Birr (Br)",
+    "currencyTr": "Etiyopya birri (Br)",
+    "areaKm2": 1104300
   },
   {
     "code": "FK",
@@ -3022,11 +3238,14 @@
     "similarityGroup": "",
     "category": "territory",
     "lat": -51.75,
-    "lng": -59.0,
+    "lng": -59,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "Falkland Islands Pound (£)",
+    "currencyTr": "Falkland Adaları lirası (£)",
+    "areaKm2": 12173
   },
   {
     "code": "FO",
@@ -3053,12 +3272,15 @@
     "similarityGroup": "",
     "category": "territory",
     "sportsDelegation": true,
-    "lat": 62.0,
-    "lng": -7.0,
+    "lat": 62,
+    "lng": -7,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "Danish Krone (kr)",
+    "currencyTr": "Danimarka kronu (kr)",
+    "areaKm2": 1393
   },
   {
     "code": "FJ",
@@ -3088,7 +3310,7 @@
     "similarityGroup": "",
     "category": "sovereign",
     "lat": -17.8,
-    "lng": 178.0,
+    "lng": 178,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -3105,7 +3327,10 @@
         "lat": -17.62,
         "lng": 177.45
       }
-    ]
+    ],
+    "currencyEn": "Fijian Dollar ($)",
+    "currencyTr": "Fiji doları ($)",
+    "areaKm2": 18274
   },
   {
     "code": "FI",
@@ -3134,8 +3359,8 @@
     "currency": "EUR (€)",
     "similarityGroup": "nordic_simple",
     "category": "sovereign",
-    "lat": 64.0,
-    "lng": 26.0,
+    "lat": 64,
+    "lng": 26,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -3152,7 +3377,10 @@
         "lat": 61.5,
         "lng": 23.79
       }
-    ]
+    ],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 338455
   },
   {
     "code": "FR",
@@ -3177,8 +3405,8 @@
     "currency": "EUR (€)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 46.0,
-    "lng": 2.0,
+    "lat": 46,
+    "lng": 2,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -3195,7 +3423,10 @@
         "lat": 45.75,
         "lng": 4.85
       }
-    ]
+    ],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 551695
   },
   {
     "code": "GF",
@@ -3217,8 +3448,8 @@
     "currency": "EUR (€)",
     "similarityGroup": "",
     "category": "territory",
-    "lat": 4.0,
-    "lng": -53.0,
+    "lat": 4,
+    "lng": -53,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -3235,7 +3466,10 @@
         "lat": 5.5,
         "lng": -54.03
       }
-    ]
+    ],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 83534
   },
   {
     "code": "PF",
@@ -3257,8 +3491,8 @@
     "currency": "XPF (₣)",
     "similarityGroup": "",
     "category": "territory",
-    "lat": -15.0,
-    "lng": -140.0,
+    "lat": -15,
+    "lng": -140,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -3275,7 +3509,10 @@
         "lat": -17.63,
         "lng": -149.6
       }
-    ]
+    ],
+    "currencyEn": "CFP Franc (₣)",
+    "currencyTr": "CFP frangı (₣)",
+    "areaKm2": 4167
   },
   {
     "code": "TF",
@@ -3305,7 +3542,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 7747
   },
   {
     "code": "GA",
@@ -3330,7 +3570,7 @@
     "currency": "XAF (Fr)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": -1.0,
+    "lat": -1,
     "lng": 11.75,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
@@ -3348,7 +3588,10 @@
         "lat": -1.63,
         "lng": 13.58
       }
-    ]
+    ],
+    "currencyEn": "Central African CFA Franc (Fr)",
+    "currencyTr": "Orta Afrika CFA frangı (Fr)",
+    "areaKm2": 267668
   },
   {
     "code": "GM",
@@ -3391,7 +3634,10 @@
         "lat": 13.27,
         "lng": -16.65
       }
-    ]
+    ],
+    "currencyEn": "Gambian Dalasi (D)",
+    "currencyTr": "Gambiya dalasisi (D)",
+    "areaKm2": 11295
   },
   {
     "code": "GE",
@@ -3413,7 +3659,7 @@
     "currency": "GEL (₾)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 42.0,
+    "lat": 42,
     "lng": 43.5,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
@@ -3431,7 +3677,10 @@
         "lat": 42.27,
         "lng": 42.69
       }
-    ]
+    ],
+    "currencyEn": "Georgian Lari (₾)",
+    "currencyTr": "Gürcistan larisi (₾)",
+    "areaKm2": 69700
   },
   {
     "code": "DE",
@@ -3457,8 +3706,8 @@
     "currency": "EUR (€)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 51.0,
-    "lng": 9.0,
+    "lat": 51,
+    "lng": 9,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -3475,7 +3724,10 @@
         "lat": 48.14,
         "lng": 11.58
       }
-    ]
+    ],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 357588
   },
   {
     "code": "GH",
@@ -3500,8 +3752,8 @@
     "currency": "GHS (₵)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 8.0,
-    "lng": -2.0,
+    "lat": 8,
+    "lng": -2,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -3518,7 +3770,10 @@
         "lat": 9.4,
         "lng": -0.84
       }
-    ]
+    ],
+    "currencyEn": "Ghanaian Cedi (₵)",
+    "currencyTr": "Gana sedisi (₵)",
+    "areaKm2": 238533
   },
   {
     "code": "GI",
@@ -3545,7 +3800,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "Gibraltar Pound (£)",
+    "currencyTr": "Cebelitarık lirası (£)",
+    "areaKm2": 6.8
   },
   {
     "code": "GR",
@@ -3572,8 +3830,8 @@
     "currency": "EUR (€)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 39.0,
-    "lng": 22.0,
+    "lat": 39,
+    "lng": 22,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -3590,7 +3848,10 @@
         "lat": 38.25,
         "lng": 21.74
       }
-    ]
+    ],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 131957
   },
   {
     "code": "GL",
@@ -3612,12 +3873,15 @@
     "currency": "DKK (kr.)",
     "similarityGroup": "",
     "category": "territory",
-    "lat": 72.0,
-    "lng": -40.0,
+    "lat": 72,
+    "lng": -40,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "Danish Krone (kr.)",
+    "currencyTr": "Danimarka kronu (kr.)",
+    "areaKm2": 2166086
   },
   {
     "code": "GD",
@@ -3644,7 +3908,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "East Caribbean Dollar ($)",
+    "currencyTr": "Doğu Karayip doları ($)",
+    "areaKm2": 344
   },
   {
     "code": "GP",
@@ -3684,7 +3951,10 @@
         "lat": 16.27,
         "lng": -61.59
       }
-    ]
+    ],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 1628
   },
   {
     "code": "GU",
@@ -3731,7 +4001,10 @@
         "lat": 13.54,
         "lng": 144.89
       }
-    ]
+    ],
+    "currencyEn": "US Dollar ($)",
+    "currencyTr": "ABD Doları ($)",
+    "areaKm2": 549
   },
   {
     "code": "GT",
@@ -3774,7 +4047,10 @@
         "lat": 14.84,
         "lng": -91.52
       }
-    ]
+    ],
+    "currencyEn": "Guatemalan Quetzal (Q)",
+    "currencyTr": "Guatemala quetzalı (Q)",
+    "areaKm2": 108889
   },
   {
     "code": "GG",
@@ -3808,7 +4084,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "British Pound (£)",
+    "currencyTr": "İngiliz Sterlini (£)",
+    "areaKm2": 78
   },
   {
     "code": "GN",
@@ -3833,8 +4112,8 @@
     "currency": "GNF (Fr)",
     "similarityGroup": "mali_guinea",
     "category": "sovereign",
-    "lat": 11.0,
-    "lng": -10.0,
+    "lat": 11,
+    "lng": -10,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -3851,7 +4130,10 @@
         "lat": 10.39,
         "lng": -9.31
       }
-    ]
+    ],
+    "currencyEn": "Guinean Franc (Fr)",
+    "currencyTr": "Gine frangı (Fr)",
+    "areaKm2": 245857
   },
   {
     "code": "GW",
@@ -3878,8 +4160,8 @@
     "currency": "XOF (Fr)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 12.0,
-    "lng": -15.0,
+    "lat": 12,
+    "lng": -15,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -3896,7 +4178,10 @@
         "lat": 11.85,
         "lng": -15.62
       }
-    ]
+    ],
+    "currencyEn": "West African CFA Franc (Fr)",
+    "currencyTr": "Batı Afrika CFA frangı (Fr)",
+    "areaKm2": 36125
   },
   {
     "code": "GY",
@@ -3921,8 +4206,8 @@
     "currency": "GYD ($)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 5.0,
-    "lng": -59.0,
+    "lat": 5,
+    "lng": -59,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -3939,7 +4224,10 @@
         "lat": 6.25,
         "lng": -57.52
       }
-    ]
+    ],
+    "currencyEn": "Guyanaese Dollar ($)",
+    "currencyTr": "Guyana doları ($)",
+    "areaKm2": 214969
   },
   {
     "code": "HT",
@@ -3966,7 +4254,7 @@
     "currency": "HTG (G)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 19.0,
+    "lat": 19,
     "lng": -72.41666666,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
@@ -3984,7 +4272,10 @@
         "lat": 19.11,
         "lng": -72.7
       }
-    ]
+    ],
+    "currencyEn": "Haitian Gourde (G)",
+    "currencyTr": "Haiti gurdu (G)",
+    "areaKm2": 27750
   },
   {
     "code": "HM",
@@ -4011,7 +4302,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "None",
+    "currencyTr": "Yok",
+    "areaKm2": 372
   },
   {
     "code": "HN",
@@ -4036,7 +4330,7 @@
     "currency": "HNL (L)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 15.0,
+    "lat": 15,
     "lng": -86.5,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
@@ -4054,7 +4348,10 @@
         "lat": 14.03,
         "lng": -86.58
       }
-    ]
+    ],
+    "currencyEn": "Honduran Lempira (L)",
+    "currencyTr": "Honduras lempirası (L)",
+    "areaKm2": 112492
   },
   {
     "code": "HK",
@@ -4089,7 +4386,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "Hong Kong Dollar ($)",
+    "currencyTr": "Hong Kong doları ($)",
+    "areaKm2": 1114
   },
   {
     "code": "HU",
@@ -4111,8 +4411,8 @@
     "currency": "HUF (Ft)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 47.0,
-    "lng": 20.0,
+    "lat": 47,
+    "lng": 20,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -4129,7 +4429,10 @@
         "lat": 46.25,
         "lng": 20.15
       }
-    ]
+    ],
+    "currencyEn": "Hungarian Forint (Ft)",
+    "currencyTr": "Macar forinti (Ft)",
+    "areaKm2": 93028
   },
   {
     "code": "IS",
@@ -4153,8 +4456,8 @@
     "currency": "ISK (kr)",
     "similarityGroup": "norway_iceland",
     "category": "sovereign",
-    "lat": 65.0,
-    "lng": -18.0,
+    "lat": 65,
+    "lng": -18,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -4171,7 +4474,10 @@
         "lat": 64.07,
         "lng": -21.94
       }
-    ]
+    ],
+    "currencyEn": "Icelandic Króna (kr)",
+    "currencyTr": "İzlanda kronu (kr)",
+    "areaKm2": 103000
   },
   {
     "code": "IN",
@@ -4202,8 +4508,8 @@
     "currency": "INR (₹)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 20.0,
-    "lng": 77.0,
+    "lat": 20,
+    "lng": 77,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -4220,7 +4526,10 @@
         "lat": 12.97,
         "lng": 77.59
       }
-    ]
+    ],
+    "currencyEn": "Indian Rupee (₹)",
+    "currencyTr": "Hindistan rupisi (₹)",
+    "areaKm2": 3287263
   },
   {
     "code": "ID",
@@ -4245,8 +4554,8 @@
     "currency": "IDR (Rp)",
     "similarityGroup": "red_white_bicolor",
     "category": "sovereign",
-    "lat": -5.0,
-    "lng": 120.0,
+    "lat": -5,
+    "lng": 120,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -4263,7 +4572,10 @@
         "lat": -6.92,
         "lng": 107.61
       }
-    ]
+    ],
+    "currencyEn": "Indonesian Rupiah (Rp)",
+    "currencyTr": "Endonezya rupisi (Rp)",
+    "areaKm2": 1904569
   },
   {
     "code": "IR",
@@ -4288,8 +4600,8 @@
     "currency": "IRR (﷼)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 32.0,
-    "lng": 53.0,
+    "lat": 32,
+    "lng": 53,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -4306,7 +4618,10 @@
         "lat": 32.65,
         "lng": 51.67
       }
-    ]
+    ],
+    "currencyEn": "Iranian Rial (﷼)",
+    "currencyTr": "İran riyali (﷼)",
+    "areaKm2": 1648195
   },
   {
     "code": "IQ",
@@ -4335,8 +4650,8 @@
     "currency": "IQD (ع.د)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 33.0,
-    "lng": 44.0,
+    "lat": 33,
+    "lng": 44,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -4353,7 +4668,10 @@
         "lat": 36.19,
         "lng": 44.01
       }
-    ]
+    ],
+    "currencyEn": "Iraqi Dinar (ع.د)",
+    "currencyTr": "Irak dinarı (ع.د)",
+    "areaKm2": 438317
   },
   {
     "code": "IE",
@@ -4381,8 +4699,8 @@
     "currency": "EUR (€)",
     "similarityGroup": "ireland_ivorycoast",
     "category": "sovereign",
-    "lat": 53.0,
-    "lng": -8.0,
+    "lat": 53,
+    "lng": -8,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -4399,7 +4717,10 @@
         "lat": 52.66,
         "lng": -8.62
       }
-    ]
+    ],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 70273
   },
   {
     "code": "IM",
@@ -4428,7 +4749,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "British Pound (£)",
+    "currencyTr": "İngiliz Sterlini (£)",
+    "areaKm2": 572
   },
   {
     "code": "IL",
@@ -4465,7 +4789,7 @@
         "en": "Haifa",
         "tr": "Hayfa",
         "lat": 32.81,
-        "lng": 35.0
+        "lng": 35
       },
       {
         "en": "Rishon LeZion",
@@ -4473,7 +4797,10 @@
         "lat": 31.97,
         "lng": 34.79
       }
-    ]
+    ],
+    "currencyEn": "Israeli New Shekel (₪)",
+    "currencyTr": "Yeni İsrail şekeli (₪)",
+    "areaKm2": 22072
   },
   {
     "code": "IT",
@@ -4516,7 +4843,10 @@
         "lat": 40.85,
         "lng": 14.27
       }
-    ]
+    ],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 301340
   },
   {
     "code": "CI",
@@ -4546,8 +4876,8 @@
     "currency": "XOF (Fr)",
     "similarityGroup": "ireland_ivorycoast",
     "category": "sovereign",
-    "lat": 8.0,
-    "lng": -5.0,
+    "lat": 8,
+    "lng": -5,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -4564,7 +4894,10 @@
         "lat": 9.46,
         "lng": -5.63
       }
-    ]
+    ],
+    "currencyEn": "West African CFA Franc (Fr)",
+    "currencyTr": "Batı Afrika CFA frangı (Fr)",
+    "areaKm2": 322463
   },
   {
     "code": "JM",
@@ -4606,7 +4939,10 @@
         "lat": 17.97,
         "lng": -76.89
       }
-    ]
+    ],
+    "currencyEn": "Jamaican Dollar ($)",
+    "currencyTr": "Jamaika doları ($)",
+    "areaKm2": 10991
   },
   {
     "code": "JP",
@@ -4631,8 +4967,8 @@
     "currency": "JPY (¥)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 36.0,
-    "lng": 138.0,
+    "lat": 36,
+    "lng": 138,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -4649,7 +4985,10 @@
         "lat": 34.69,
         "lng": 135.5
       }
-    ]
+    ],
+    "currencyEn": "Japanese Yen (¥)",
+    "currencyTr": "Japon yeni (¥)",
+    "areaKm2": 377975
   },
   {
     "code": "JE",
@@ -4682,7 +5021,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "British Pound (£)",
+    "currencyTr": "İngiliz Sterlini (£)",
+    "areaKm2": 118
   },
   {
     "code": "JO",
@@ -4707,8 +5049,8 @@
     "currency": "JOD (د.ا)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 31.0,
-    "lng": 36.0,
+    "lat": 31,
+    "lng": 36,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -4725,7 +5067,10 @@
         "lat": 32.56,
         "lng": 35.85
       }
-    ]
+    ],
+    "currencyEn": "Jordanian Dinar (د.ا)",
+    "currencyTr": "Ürdün dinarı (د.ا)",
+    "areaKm2": 89342
   },
   {
     "code": "KZ",
@@ -4755,8 +5100,8 @@
     "currency": "KZT (₸)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 48.0,
-    "lng": 68.0,
+    "lat": 48,
+    "lng": 68,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -4773,7 +5118,10 @@
         "lat": 42.31,
         "lng": 69.6
       }
-    ]
+    ],
+    "currencyEn": "Kazakhstani Tenge (₸)",
+    "currencyTr": "Kazakistan tengesi (₸)",
+    "areaKm2": 2724900
   },
   {
     "code": "KE",
@@ -4800,8 +5148,8 @@
     "currency": "KES (Sh)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 1.0,
-    "lng": 38.0,
+    "lat": 1,
+    "lng": 38,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -4818,7 +5166,10 @@
         "lat": -0.1,
         "lng": 34.75
       }
-    ]
+    ],
+    "currencyEn": "Kenyan Shilling (Sh)",
+    "currencyTr": "Kenya şilini (Sh)",
+    "areaKm2": 580367
   },
   {
     "code": "KI",
@@ -4847,11 +5198,14 @@
     "similarityGroup": "",
     "category": "sovereign",
     "lat": 1.41666666,
-    "lng": 173.0,
+    "lng": 173,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "Australian Dollar ($)",
+    "currencyTr": "Avustralya doları ($)",
+    "areaKm2": 811
   },
   {
     "code": "XK",
@@ -4898,7 +5252,10 @@
         "lat": 42.88,
         "lng": 20.87
       }
-    ]
+    ],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 10887
   },
   {
     "code": "KW",
@@ -4943,7 +5300,10 @@
         "lat": 29.33,
         "lng": 48.03
       }
-    ]
+    ],
+    "currencyEn": "Kuwaiti Dinar (د.ك)",
+    "currencyTr": "Kuveyt dinarı (د.ك)",
+    "areaKm2": 17818
   },
   {
     "code": "KG",
@@ -4970,8 +5330,8 @@
     "currency": "KGS (с)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 41.0,
-    "lng": 75.0,
+    "lat": 41,
+    "lng": 75,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -4988,7 +5348,10 @@
         "lat": 40.94,
         "lng": 72.99
       }
-    ]
+    ],
+    "currencyEn": "Kyrgyz Som (с)",
+    "currencyTr": "Kırgızistan somu (с)",
+    "areaKm2": 199951
   },
   {
     "code": "LA",
@@ -5015,8 +5378,8 @@
     "currency": "LAK (₭)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 18.0,
-    "lng": 105.0,
+    "lat": 18,
+    "lng": 105,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -5033,7 +5396,10 @@
         "lat": 17.41,
         "lng": 104.83
       }
-    ]
+    ],
+    "currencyEn": "Laotian Kip (₭)",
+    "currencyTr": "Laos kipi (₭)",
+    "areaKm2": 236800
   },
   {
     "code": "LV",
@@ -5058,8 +5424,8 @@
     "currency": "EUR (€)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 57.0,
-    "lng": 25.0,
+    "lat": 57,
+    "lng": 25,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -5076,7 +5442,10 @@
         "lat": 56.5,
         "lng": 21.01
       }
-    ]
+    ],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 64589
   },
   {
     "code": "LB",
@@ -5121,7 +5490,10 @@
         "lat": 33.27,
         "lng": 35.19
       }
-    ]
+    ],
+    "currencyEn": "Lebanese Pound (ل.ل)",
+    "currencyTr": "Lübnan lirası (ل.ل)",
+    "areaKm2": 10452
   },
   {
     "code": "LS",
@@ -5166,7 +5538,10 @@
         "lat": -30.15,
         "lng": 27.48
       }
-    ]
+    ],
+    "currencyEn": "Lesotho Loti (L)",
+    "currencyTr": "Lesotho lotisi (L)",
+    "areaKm2": 30355
   },
   {
     "code": "LR",
@@ -5200,7 +5575,7 @@
       {
         "en": "Gbarnga",
         "tr": "Gbarnga",
-        "lat": 7.0,
+        "lat": 7,
         "lng": -9.47
       },
       {
@@ -5209,7 +5584,10 @@
         "lat": 5.88,
         "lng": -10.05
       }
-    ]
+    ],
+    "currencyEn": "Liberian Dollar ($)",
+    "currencyTr": "Liberya doları ($)",
+    "areaKm2": 111369
   },
   {
     "code": "LY",
@@ -5234,8 +5612,8 @@
     "currency": "LYD (ل.د)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 25.0,
-    "lng": 17.0,
+    "lat": 25,
+    "lng": 17,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -5252,7 +5630,10 @@
         "lat": 32.38,
         "lng": 15.09
       }
-    ]
+    ],
+    "currencyEn": "Libyan Dinar (ل.د)",
+    "currencyTr": "Libya dinarı (ل.د)",
+    "areaKm2": 1759540
   },
   {
     "code": "LI",
@@ -5282,7 +5663,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "Swiss Franc (Fr)",
+    "currencyTr": "İsviçre frangı (Fr)",
+    "areaKm2": 160
   },
   {
     "code": "LT",
@@ -5309,8 +5693,8 @@
     "currency": "EUR (€)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 56.0,
-    "lng": 24.0,
+    "lat": 56,
+    "lng": 24,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -5327,7 +5711,10 @@
         "lat": 55.71,
         "lng": 21.14
       }
-    ]
+    ],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 65300
   },
   {
     "code": "LU",
@@ -5374,7 +5761,10 @@
         "lat": 49.48,
         "lng": 6.09
       }
-    ]
+    ],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 2586
   },
   {
     "code": "MO",
@@ -5407,7 +5797,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "Macanese Pataca (P)",
+    "currencyTr": "Makao patakası (P)",
+    "areaKm2": 33
   },
   {
     "code": "MG",
@@ -5434,8 +5827,8 @@
     "currency": "MGA (Ar)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": -20.0,
-    "lng": 47.0,
+    "lat": -20,
+    "lng": 47,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -5452,7 +5845,10 @@
         "lat": -19.87,
         "lng": 47.03
       }
-    ]
+    ],
+    "currencyEn": "Malagasy Ariary (Ar)",
+    "currencyTr": "Madagaskar ariarisi (Ar)",
+    "areaKm2": 587041
   },
   {
     "code": "MW",
@@ -5480,7 +5876,7 @@
     "similarityGroup": "",
     "category": "sovereign",
     "lat": -13.5,
-    "lng": 34.0,
+    "lng": 34,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -5497,7 +5893,10 @@
         "lat": -11.47,
         "lng": 34.02
       }
-    ]
+    ],
+    "currencyEn": "Malawian Kwacha (MK)",
+    "currencyTr": "Malavi kvaçası (MK)",
+    "areaKm2": 118484
   },
   {
     "code": "MY",
@@ -5541,7 +5940,10 @@
         "lat": 3.11,
         "lng": 101.61
       }
-    ]
+    ],
+    "currencyEn": "Malaysian Ringgit (RM)",
+    "currencyTr": "Malezya ringgiti (RM)",
+    "areaKm2": 330803
   },
   {
     "code": "MV",
@@ -5568,11 +5970,14 @@
     "similarityGroup": "",
     "category": "sovereign",
     "lat": 3.25,
-    "lng": 73.0,
+    "lng": 73,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "Maldivian Rufiyaa (.ރ)",
+    "currencyTr": "Maldiv rufiyaası (.ރ)",
+    "areaKm2": 298
   },
   {
     "code": "ML",
@@ -5597,8 +6002,8 @@
     "currency": "XOF (Fr)",
     "similarityGroup": "mali_guinea",
     "category": "sovereign",
-    "lat": 17.0,
-    "lng": -4.0,
+    "lat": 17,
+    "lng": -4,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -5615,7 +6020,10 @@
         "lat": 12.39,
         "lng": -5.47
       }
-    ]
+    ],
+    "currencyEn": "West African CFA Franc (Fr)",
+    "currencyTr": "Batı Afrika CFA frangı (Fr)",
+    "areaKm2": 1240192
   },
   {
     "code": "MT",
@@ -5660,7 +6068,10 @@
         "lat": 35.9,
         "lng": 14.46
       }
-    ]
+    ],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 316
   },
   {
     "code": "MH",
@@ -5687,8 +6098,8 @@
     "currency": "USD ($)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 9.0,
-    "lng": 168.0,
+    "lat": 9,
+    "lng": 168,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -5699,7 +6110,10 @@
         "lat": 7.09,
         "lng": 171.38
       }
-    ]
+    ],
+    "currencyEn": "US Dollar ($)",
+    "currencyTr": "ABD Doları ($)",
+    "areaKm2": 181
   },
   {
     "code": "MQ",
@@ -5722,7 +6136,7 @@
     "similarityGroup": "",
     "category": "territory",
     "lat": 14.666667,
-    "lng": -61.0,
+    "lng": -61,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -5731,7 +6145,7 @@
         "en": "Le Lamentin",
         "tr": "Le Lamentin",
         "lat": 14.61,
-        "lng": -61.0
+        "lng": -61
       },
       {
         "en": "Le Robert",
@@ -5739,7 +6153,10 @@
         "lat": 14.68,
         "lng": -60.94
       }
-    ]
+    ],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 1128
   },
   {
     "code": "MR",
@@ -5764,8 +6181,8 @@
     "currency": "MRU (UM)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 20.0,
-    "lng": -12.0,
+    "lat": 20,
+    "lng": -12,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -5782,7 +6199,10 @@
         "lat": 16.62,
         "lng": -11.4
       }
-    ]
+    ],
+    "currencyEn": "Mauritanian Ouguiya (UM)",
+    "currencyTr": "Moritanya ugiyası (UM)",
+    "areaKm2": 1030700
   },
   {
     "code": "MU",
@@ -5829,7 +6249,10 @@
         "lat": -20.23,
         "lng": 57.47
       }
-    ]
+    ],
+    "currencyEn": "Mauritian Rupee (₨)",
+    "currencyTr": "Mauritius rupisi (₨)",
+    "areaKm2": 2040
   },
   {
     "code": "YT",
@@ -5871,7 +6294,10 @@
         "lat": -12.78,
         "lng": 45.28
       }
-    ]
+    ],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 374
   },
   {
     "code": "MX",
@@ -5899,8 +6325,8 @@
     "currency": "MXN ($)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 23.0,
-    "lng": -102.0,
+    "lat": 23,
+    "lng": -102,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -5917,7 +6343,10 @@
         "lat": 25.67,
         "lng": -100.31
       }
-    ]
+    ],
+    "currencyEn": "Mexican Peso ($)",
+    "currencyTr": "Meksika pesosu ($)",
+    "areaKm2": 1964375
   },
   {
     "code": "FM",
@@ -5948,7 +6377,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "None",
+    "currencyTr": "Yok",
+    "areaKm2": 702
   },
   {
     "code": "MD",
@@ -5976,8 +6408,8 @@
     "currency": "MDL (L)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 47.0,
-    "lng": 29.0,
+    "lat": 47,
+    "lng": 29,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -5994,7 +6426,10 @@
         "lat": 45.9,
         "lng": 28.2
       }
-    ]
+    ],
+    "currencyEn": "Moldovan Leu (L)",
+    "currencyTr": "Moldova leyi (L)",
+    "areaKm2": 33846
   },
   {
     "code": "MC",
@@ -6024,7 +6459,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 2
   },
   {
     "code": "MN",
@@ -6049,8 +6487,8 @@
     "currency": "MNT (₮)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 46.0,
-    "lng": 105.0,
+    "lat": 46,
+    "lng": 105,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -6067,7 +6505,10 @@
         "lat": 49.49,
         "lng": 105.92
       }
-    ]
+    ],
+    "currencyEn": "Mongolian Tugrik (₮)",
+    "currencyTr": "Moğolistan tugriki (₮)",
+    "areaKm2": 1564116
   },
   {
     "code": "ME",
@@ -6107,7 +6548,10 @@
         "lat": 42.45,
         "lng": 18.54
       }
-    ]
+    ],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 13812
   },
   {
     "code": "MS",
@@ -6141,7 +6585,10 @@
         "lat": 16.79,
         "lng": -62.21
       }
-    ]
+    ],
+    "currencyEn": "East Caribbean Dollar ($)",
+    "currencyTr": "Doğu Karayip doları ($)",
+    "areaKm2": 102
   },
   {
     "code": "MA",
@@ -6168,8 +6615,8 @@
     "currency": "MAD (د.م.)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 32.0,
-    "lng": -5.0,
+    "lat": 32,
+    "lng": -5,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -6186,7 +6633,10 @@
         "lat": 35.77,
         "lng": -5.8
       }
-    ]
+    ],
+    "currencyEn": "Moroccan Dirham (د.م.)",
+    "currencyTr": "Fas dirhemi (د.م.)",
+    "areaKm2": 446550
   },
   {
     "code": "MZ",
@@ -6212,7 +6662,7 @@
     "similarityGroup": "",
     "category": "sovereign",
     "lat": -18.25,
-    "lng": 35.0,
+    "lng": 35,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -6229,7 +6679,10 @@
         "lat": -15.12,
         "lng": 39.27
       }
-    ]
+    ],
+    "currencyEn": "Mozambican Metical (MT)",
+    "currencyTr": "Mozambik metikali (MT)",
+    "areaKm2": 801590
   },
   {
     "code": "MM",
@@ -6260,8 +6713,8 @@
     "currency": "MMK (Ks)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 22.0,
-    "lng": 98.0,
+    "lat": 22,
+    "lng": 98,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -6278,7 +6731,10 @@
         "lat": 21.97,
         "lng": 96.08
       }
-    ]
+    ],
+    "currencyEn": "Myanmar Kyat (Ks)",
+    "currencyTr": "Myanmar kyatı (Ks)",
+    "areaKm2": 676578
   },
   {
     "code": "NA",
@@ -6319,8 +6775,8 @@
     "currency": "NAD ($)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": -22.0,
-    "lng": 17.0,
+    "lat": -22,
+    "lng": 17,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -6337,7 +6793,10 @@
         "lat": -22.96,
         "lng": 14.51
       }
-    ]
+    ],
+    "currencyEn": "Namibian Dollar ($)",
+    "currencyTr": "Namibya doları ($)",
+    "areaKm2": 825615
   },
   {
     "code": "NR",
@@ -6369,7 +6828,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "Australian Dollar ($)",
+    "currencyTr": "Avustralya doları ($)",
+    "areaKm2": 21
   },
   {
     "code": "NP",
@@ -6394,8 +6856,8 @@
     "currency": "NPR (₨)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 28.0,
-    "lng": 84.0,
+    "lat": 28,
+    "lng": 84,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -6412,7 +6874,10 @@
         "lat": 27.68,
         "lng": 84.44
       }
-    ]
+    ],
+    "currencyEn": "Nepalese Rupee (₨)",
+    "currencyTr": "Nepal rupisi (₨)",
+    "areaKm2": 147516
   },
   {
     "code": "NL",
@@ -6459,7 +6924,10 @@
         "lat": 52.09,
         "lng": 5.12
       }
-    ]
+    ],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 41850
   },
   {
     "code": "NC",
@@ -6499,7 +6967,10 @@
         "lat": -22.16,
         "lng": 166.46
       }
-    ]
+    ],
+    "currencyEn": "CFP Franc (₣)",
+    "currencyTr": "CFP frangı (₣)",
+    "areaKm2": 18575
   },
   {
     "code": "NZ",
@@ -6525,8 +6996,8 @@
     "currency": "NZD ($)",
     "similarityGroup": "australia_nz",
     "category": "sovereign",
-    "lat": -41.0,
-    "lng": 174.0,
+    "lat": -41,
+    "lng": 174,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -6543,7 +7014,10 @@
         "lat": -43.53,
         "lng": 172.63
       }
-    ]
+    ],
+    "currencyEn": "New Zealand Dollar ($)",
+    "currencyTr": "Yeni Zelanda doları ($)",
+    "areaKm2": 268021
   },
   {
     "code": "NI",
@@ -6568,8 +7042,8 @@
     "currency": "NIO (C$)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 13.0,
-    "lng": -85.0,
+    "lat": 13,
+    "lng": -85,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -6586,7 +7060,10 @@
         "lat": 11.97,
         "lng": -86.1
       }
-    ]
+    ],
+    "currencyEn": "Nicaraguan Córdoba (C$)",
+    "currencyTr": "Nikaragua kordobası (C$)",
+    "areaKm2": 130373
   },
   {
     "code": "NE",
@@ -6611,8 +7088,8 @@
     "currency": "XOF (Fr)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 16.0,
-    "lng": 8.0,
+    "lat": 16,
+    "lng": 8,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -6629,7 +7106,10 @@
         "lat": 13.81,
         "lng": 8.99
       }
-    ]
+    ],
+    "currencyEn": "West African CFA Franc (Fr)",
+    "currencyTr": "Batı Afrika CFA frangı (Fr)",
+    "areaKm2": 1267000
   },
   {
     "code": "NG",
@@ -6654,8 +7134,8 @@
     "currency": "NGN (₦)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 10.0,
-    "lng": 8.0,
+    "lat": 10,
+    "lng": 8,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -6669,10 +7149,13 @@
       {
         "en": "Kano",
         "tr": "Kano",
-        "lat": 12.0,
+        "lat": 12,
         "lng": 8.52
       }
-    ]
+    ],
+    "currencyEn": "Nigerian Naira (₦)",
+    "currencyTr": "Nijerya nairası (₦)",
+    "areaKm2": 923768
   },
   {
     "code": "NU",
@@ -6701,7 +7184,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "New Zealand Dollar ($)",
+    "currencyTr": "Yeni Zelanda doları ($)",
+    "areaKm2": 260
   },
   {
     "code": "NF",
@@ -6732,7 +7218,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "Australian Dollar ($)",
+    "currencyTr": "Avustralya doları ($)",
+    "areaKm2": 35
   },
   {
     "code": "KP",
@@ -6761,8 +7250,8 @@
     "currency": "KPW (₩)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 40.0,
-    "lng": 127.0,
+    "lat": 40,
+    "lng": 127,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -6779,7 +7268,10 @@
         "lat": 38.74,
         "lng": 125.41
       }
-    ]
+    ],
+    "currencyEn": "North Korean Won (₩)",
+    "currencyTr": "Kuzey Kore wonu (₩)",
+    "areaKm2": 120538
   },
   {
     "code": "MK",
@@ -6809,7 +7301,7 @@
     "similarityGroup": "",
     "category": "sovereign",
     "lat": 41.83333333,
-    "lng": 22.0,
+    "lng": 22,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -6826,7 +7318,10 @@
         "lat": 41.35,
         "lng": 21.55
       }
-    ]
+    ],
+    "currencyEn": "Macedonian Denar (den)",
+    "currencyTr": "Makedonya dinarı (den)",
+    "areaKm2": 25713
   },
   {
     "code": "XNC",
@@ -6872,7 +7367,10 @@
         "lat": 35.34,
         "lng": 33.32
       }
-    ]
+    ],
+    "currencyEn": "Turkish Lira (₺)",
+    "currencyTr": "Türk Lirası (₺)",
+    "areaKm2": 3355
   },
   {
     "code": "GB-NIR",
@@ -6906,7 +7404,7 @@
       {
         "en": "Derry",
         "tr": "Derry",
-        "lat": 55.0,
+        "lat": 55,
         "lng": -7.31
       },
       {
@@ -6915,7 +7413,10 @@
         "lat": 54.52,
         "lng": -6.04
       }
-    ]
+    ],
+    "currencyEn": "British Pound (£)",
+    "currencyTr": "İngiliz Sterlini (£)",
+    "areaKm2": 14130
   },
   {
     "code": "MP",
@@ -6949,7 +7450,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "US Dollar ($)",
+    "currencyTr": "ABD Doları ($)",
+    "areaKm2": 464
   },
   {
     "code": "NO",
@@ -6978,8 +7482,8 @@
     "currency": "NOK (kr)",
     "similarityGroup": "norway_iceland",
     "category": "sovereign",
-    "lat": 62.0,
-    "lng": 10.0,
+    "lat": 62,
+    "lng": 10,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -6996,7 +7500,10 @@
         "lat": 63.43,
         "lng": 10.4
       }
-    ]
+    ],
+    "currencyEn": "Norwegian Krone (kr)",
+    "currencyTr": "Norveç kronu (kr)",
+    "areaKm2": 385207
   },
   {
     "code": "OM",
@@ -7021,8 +7528,8 @@
     "currency": "OMR (ر.ع.)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 21.0,
-    "lng": 57.0,
+    "lat": 21,
+    "lng": 57,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -7039,7 +7546,10 @@
         "lat": 17.02,
         "lng": 54.09
       }
-    ]
+    ],
+    "currencyEn": "Omani Rial (ر.ع.)",
+    "currencyTr": "Umman riyali (ر.ع.)",
+    "areaKm2": 309500
   },
   {
     "code": "PK",
@@ -7066,8 +7576,8 @@
     "currency": "PKR (₨)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 30.0,
-    "lng": 70.0,
+    "lat": 30,
+    "lng": 70,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -7084,7 +7594,10 @@
         "lat": 24.86,
         "lng": 67.01
       }
-    ]
+    ],
+    "currencyEn": "Pakistani Rupee (₨)",
+    "currencyTr": "Pakistan rupisi (₨)",
+    "areaKm2": 881913
   },
   {
     "code": "PW",
@@ -7116,7 +7629,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "US Dollar ($)",
+    "currencyTr": "ABD Doları ($)",
+    "areaKm2": 459
   },
   {
     "code": "PS",
@@ -7163,7 +7679,10 @@
         "lat": 31.34,
         "lng": 34.31
       }
-    ]
+    ],
+    "currencyEn": "Israeli New Shekel (₪)",
+    "currencyTr": "Yeni İsrail şekeli (₪)",
+    "areaKm2": 6020
   },
   {
     "code": "PA",
@@ -7190,8 +7709,8 @@
     "currency": "PAB (B/.)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 9.0,
-    "lng": -80.0,
+    "lat": 9,
+    "lng": -80,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -7208,7 +7727,10 @@
         "lat": 9.36,
         "lng": -79.9
       }
-    ]
+    ],
+    "currencyEn": "Panamanian Balboa (B/.)",
+    "currencyTr": "Panama balboası (B/.)",
+    "areaKm2": 75417
   },
   {
     "code": "PG",
@@ -7239,8 +7761,8 @@
     "currency": "PGK (K)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": -6.0,
-    "lng": 147.0,
+    "lat": -6,
+    "lng": 147,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -7249,7 +7771,7 @@
         "en": "Lae",
         "tr": "Lae",
         "lat": -6.72,
-        "lng": 147.0
+        "lng": 147
       },
       {
         "en": "Arawa",
@@ -7257,7 +7779,10 @@
         "lat": -6.23,
         "lng": 155.57
       }
-    ]
+    ],
+    "currencyEn": "Papua New Guinean Kina (K)",
+    "currencyTr": "Papua Yeni Gine kinası (K)",
+    "areaKm2": 462840
   },
   {
     "code": "PY",
@@ -7284,8 +7809,8 @@
     "currency": "PYG (₲)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": -23.0,
-    "lng": -58.0,
+    "lat": -23,
+    "lng": -58,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -7302,7 +7827,10 @@
         "lat": -25.34,
         "lng": -57.51
       }
-    ]
+    ],
+    "currencyEn": "Paraguayan Guarani (₲)",
+    "currencyTr": "Paraguay guaranisi (₲)",
+    "areaKm2": 406752
   },
   {
     "code": "PE",
@@ -7331,8 +7859,8 @@
     "currency": "PEN (S/.)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": -10.0,
-    "lng": -76.0,
+    "lat": -10,
+    "lng": -76,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -7349,7 +7877,10 @@
         "lat": -16.4,
         "lng": -71.54
       }
-    ]
+    ],
+    "currencyEn": "Peruvian Sol (S/.)",
+    "currencyTr": "Peru solü (S/.)",
+    "areaKm2": 1285216
   },
   {
     "code": "PH",
@@ -7376,8 +7907,8 @@
     "currency": "PHP (₱)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 13.0,
-    "lng": 122.0,
+    "lat": 13,
+    "lng": 122,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -7394,7 +7925,10 @@
         "lat": 7.07,
         "lng": 125.61
       }
-    ]
+    ],
+    "currencyEn": "Philippine Peso (₱)",
+    "currencyTr": "Filipinler pesosu (₱)",
+    "areaKm2": 300000
   },
   {
     "code": "PN",
@@ -7425,7 +7959,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "New Zealand Dollar ($)",
+    "currencyTr": "Yeni Zelanda doları ($)",
+    "areaKm2": 47
   },
   {
     "code": "PL",
@@ -7452,8 +7989,8 @@
     "currency": "PLN (zł)",
     "similarityGroup": "red_white_bicolor",
     "category": "sovereign",
-    "lat": 52.0,
-    "lng": 20.0,
+    "lat": 52,
+    "lng": 20,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -7470,7 +8007,10 @@
         "lat": 51.1,
         "lng": 17.03
       }
-    ]
+    ],
+    "currencyEn": "Polish Zloty (zł)",
+    "currencyTr": "Polonya zlotisi (zł)",
+    "areaKm2": 312696
   },
   {
     "code": "PT",
@@ -7498,7 +8038,7 @@
     "similarityGroup": "",
     "category": "sovereign",
     "lat": 39.5,
-    "lng": -8.0,
+    "lng": -8,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -7515,7 +8055,10 @@
         "lat": 41.55,
         "lng": -8.42
       }
-    ]
+    ],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 92226
   },
   {
     "code": "PR",
@@ -7561,7 +8104,10 @@
         "lat": 18.38,
         "lng": -65.96
       }
-    ]
+    ],
+    "currencyEn": "US Dollar ($)",
+    "currencyTr": "ABD Doları ($)",
+    "areaKm2": 9104
   },
   {
     "code": "QA",
@@ -7604,7 +8150,10 @@
         "lat": 25.42,
         "lng": 51.51
       }
-    ]
+    ],
+    "currencyEn": "Qatari Riyal (ر.ق)",
+    "currencyTr": "Katar riyali (ر.ق)",
+    "areaKm2": 11586
   },
   {
     "code": "RO",
@@ -7628,8 +8177,8 @@
     "currency": "RON (lei)",
     "similarityGroup": "chad_romania",
     "category": "sovereign",
-    "lat": 46.0,
-    "lng": 25.0,
+    "lat": 46,
+    "lng": 25,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -7646,7 +8195,10 @@
         "lat": 44.18,
         "lng": 28.63
       }
-    ]
+    ],
+    "currencyEn": "Romanian Leu (lei)",
+    "currencyTr": "Romen leyi (lei)",
+    "areaKm2": 238397
   },
   {
     "code": "RU",
@@ -7673,8 +8225,8 @@
     "currency": "RUB (₽)",
     "similarityGroup": "slavic_white_blue_red",
     "category": "sovereign",
-    "lat": 60.0,
-    "lng": 100.0,
+    "lat": 60,
+    "lng": 100,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -7691,7 +8243,10 @@
         "lat": 55.02,
         "lng": 82.93
       }
-    ]
+    ],
+    "currencyEn": "Russian Ruble (₽)",
+    "currencyTr": "Rus rublesi (₽)",
+    "areaKm2": 17098246
   },
   {
     "code": "RW",
@@ -7720,8 +8275,8 @@
     "currency": "RWF (Fr)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": -2.0,
-    "lng": 30.0,
+    "lat": -2,
+    "lng": 30,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -7738,7 +8293,10 @@
         "lat": -1.5,
         "lng": 29.63
       }
-    ]
+    ],
+    "currencyEn": "Rwandan Franc (Fr)",
+    "currencyTr": "Ruanda frangı (Fr)",
+    "areaKm2": 26338
   },
   {
     "code": "RE",
@@ -7780,7 +8338,10 @@
         "lat": -21.28,
         "lng": 55.52
       }
-    ]
+    ],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 2511
   },
   {
     "code": "BL",
@@ -7812,7 +8373,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 25
   },
   {
     "code": "SH",
@@ -7841,7 +8405,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "British Pound (£)",
+    "currencyTr": "İngiliz Sterlini (£)",
+    "areaKm2": 394
   },
   {
     "code": "KN",
@@ -7874,7 +8441,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "East Caribbean Dollar ($)",
+    "currencyTr": "Doğu Karayip doları ($)",
+    "areaKm2": 261
   },
   {
     "code": "LC",
@@ -7910,7 +8480,10 @@
         "lat": 14.07,
         "lng": -60.95
       }
-    ]
+    ],
+    "currencyEn": "East Caribbean Dollar ($)",
+    "currencyTr": "Doğu Karayip doları ($)",
+    "areaKm2": 616
   },
   {
     "code": "MF",
@@ -7941,7 +8514,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 53
   },
   {
     "code": "PM",
@@ -7970,7 +8546,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 242
   },
   {
     "code": "VC",
@@ -8007,7 +8586,10 @@
         "lat": 13.13,
         "lng": -61.19
       }
-    ]
+    ],
+    "currencyEn": "East Caribbean Dollar ($)",
+    "currencyTr": "Doğu Karayip doları ($)",
+    "areaKm2": 389
   },
   {
     "code": "WS",
@@ -8038,7 +8620,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "Samoan Tala (T)",
+    "currencyTr": "Samoa talası (T)",
+    "areaKm2": 2842
   },
   {
     "code": "SM",
@@ -8069,7 +8654,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 61
   },
   {
     "code": "SA",
@@ -8096,8 +8684,8 @@
     "currency": "SAR (ر.س)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 25.0,
-    "lng": 45.0,
+    "lat": 25,
+    "lng": 45,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -8114,7 +8702,10 @@
         "lat": 21.43,
         "lng": 39.83
       }
-    ]
+    ],
+    "currencyEn": "Saudi Riyal (ر.س)",
+    "currencyTr": "Suudi Arabistan riyali (ر.س)",
+    "areaKm2": 2149690
   },
   {
     "code": "GB-SCT",
@@ -8161,7 +8752,10 @@
         "lat": 57.14,
         "lng": -2.1
       }
-    ]
+    ],
+    "currencyEn": "British Pound (£)",
+    "currencyTr": "İngiliz Sterlini (£)",
+    "areaKm2": 77933
   },
   {
     "code": "SN",
@@ -8186,8 +8780,8 @@
     "currency": "XOF (Fr)",
     "similarityGroup": "mali_guinea",
     "category": "sovereign",
-    "lat": 14.0,
-    "lng": -14.0,
+    "lat": 14,
+    "lng": -14,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -8204,7 +8798,10 @@
         "lat": 14.79,
         "lng": -16.93
       }
-    ]
+    ],
+    "currencyEn": "West African CFA Franc (Fr)",
+    "currencyTr": "Batı Afrika CFA frangı (Fr)",
+    "areaKm2": 196722
   },
   {
     "code": "RS",
@@ -8231,8 +8828,8 @@
     "currency": "RSD (дин.)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 44.0,
-    "lng": 21.0,
+    "lat": 44,
+    "lng": 21,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -8249,7 +8846,10 @@
         "lat": 45.25,
         "lng": 19.84
       }
-    ]
+    ],
+    "currencyEn": "Serbian Dinar (дин.)",
+    "currencyTr": "Sırp dinarı (дин.)",
+    "areaKm2": 77474
   },
   {
     "code": "SC",
@@ -8283,7 +8883,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "Seychellois Rupee (₨)",
+    "currencyTr": "Seyşeller rupisi (₨)",
+    "areaKm2": 459
   },
   {
     "code": "SL",
@@ -8326,7 +8929,10 @@
         "lat": 7.96,
         "lng": -11.74
       }
-    ]
+    ],
+    "currencyEn": "Sierra Leonean Leone (Le)",
+    "currencyTr": "Sierra Leone leonesi (Le)",
+    "areaKm2": 71740
   },
   {
     "code": "SG",
@@ -8362,7 +8968,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "Singapore Dollar ($)",
+    "currencyTr": "Singapur doları ($)",
+    "areaKm2": 734
   },
   {
     "code": "SX",
@@ -8395,7 +9004,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "Netherlands Antillean Guilder (ƒ)",
+    "currencyTr": "Hollanda Antilleri guldeni (ƒ)",
+    "areaKm2": 34
   },
   {
     "code": "SK",
@@ -8438,7 +9050,10 @@
         "lat": 48.31,
         "lng": 18.08
       }
-    ]
+    ],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 49035
   },
   {
     "code": "SI",
@@ -8481,7 +9096,10 @@
         "lat": 46.23,
         "lng": 15.26
       }
-    ]
+    ],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 20273
   },
   {
     "code": "SB",
@@ -8503,8 +9121,8 @@
     "currency": "SBD ($)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": -8.0,
-    "lng": 159.0,
+    "lat": -8,
+    "lng": 159,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -8521,7 +9139,10 @@
         "lat": -9.42,
         "lng": 160.05
       }
-    ]
+    ],
+    "currencyEn": "Solomon Islands Dollar ($)",
+    "currencyTr": "Solomon Adaları doları ($)",
+    "areaKm2": 28896
   },
   {
     "code": "SO",
@@ -8548,8 +9169,8 @@
     "currency": "SOS (Sh)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 10.0,
-    "lng": 49.0,
+    "lat": 10,
+    "lng": 49,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -8566,7 +9187,10 @@
         "lat": 1.72,
         "lng": 44.77
       }
-    ]
+    ],
+    "currencyEn": "Somali Shilling (Sh)",
+    "currencyTr": "Somali şilini (Sh)",
+    "areaKm2": 637657
   },
   {
     "code": "XSO",
@@ -8608,7 +9232,10 @@
         "lat": 10.44,
         "lng": 45.01
       }
-    ]
+    ],
+    "currencyEn": "Somaliland Shilling (Sl.Sh.)",
+    "currencyTr": "Somaliland Şilini (Sl.Sh.)",
+    "areaKm2": 168216
   },
   {
     "code": "ZA",
@@ -8670,8 +9297,8 @@
     "currency": "ZAR (R)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": -29.0,
-    "lng": 24.0,
+    "lat": -29,
+    "lng": 24,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -8688,7 +9315,10 @@
         "lat": -29.86,
         "lng": 31.03
       }
-    ]
+    ],
+    "currencyEn": "South African Rand (R)",
+    "currencyTr": "Güney Afrika randı (R)",
+    "areaKm2": 1221037
   },
   {
     "code": "GS",
@@ -8713,11 +9343,14 @@
     "similarityGroup": "",
     "category": "territory",
     "lat": -54.5,
-    "lng": -37.0,
+    "lng": -37,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "St. Helena Pound (£)",
+    "currencyTr": "Saint Helena lirası (£)",
+    "areaKm2": 3903
   },
   {
     "code": "KR",
@@ -8743,7 +9376,7 @@
     "currency": "KRW (₩)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 37.0,
+    "lat": 37,
     "lng": 127.5,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
@@ -8761,7 +9394,10 @@
         "lat": 37.46,
         "lng": 126.71
       }
-    ]
+    ],
+    "currencyEn": "South Korean Won (₩)",
+    "currencyTr": "Güney Kore wonu (₩)",
+    "areaKm2": 100210
   },
   {
     "code": "SS",
@@ -8786,8 +9422,8 @@
     "currency": "SSP (£)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 7.0,
-    "lng": 30.0,
+    "lat": 7,
+    "lng": 30,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -8804,7 +9440,10 @@
         "lat": 9.53,
         "lng": 31.66
       }
-    ]
+    ],
+    "currencyEn": "South Sudanese Pound (£)",
+    "currencyTr": "Güney Sudan lirası (£)",
+    "areaKm2": 619745
   },
   {
     "code": "ES",
@@ -8830,8 +9469,8 @@
     "currency": "EUR (€)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 40.0,
-    "lng": -4.0,
+    "lat": 40,
+    "lng": -4,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -8848,7 +9487,10 @@
         "lat": 39.47,
         "lng": -0.38
       }
-    ]
+    ],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 505990
   },
   {
     "code": "LK",
@@ -8887,8 +9529,8 @@
     "currency": "LKR (Rs රු)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 7.0,
-    "lng": 81.0,
+    "lat": 7,
+    "lng": 81,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -8905,7 +9547,10 @@
         "lat": 9.67,
         "lng": 80.01
       }
-    ]
+    ],
+    "currencyEn": "Sri Lankan Rupee (Rs රු)",
+    "currencyTr": "Sri Lanka rupisi (Rs රු)",
+    "areaKm2": 65610
   },
   {
     "code": "SD",
@@ -8932,8 +9577,8 @@
     "currency": "SDG (PT)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 15.0,
-    "lng": 30.0,
+    "lat": 15,
+    "lng": 30,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -8950,7 +9595,10 @@
         "lat": 12.05,
         "lng": 24.88
       }
-    ]
+    ],
+    "currencyEn": "Sudanese Pound (PT)",
+    "currencyTr": "Sudan lirası (PT)",
+    "areaKm2": 1861484
   },
   {
     "code": "SR",
@@ -8975,8 +9623,8 @@
     "currency": "SRD ($)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 4.0,
-    "lng": -56.0,
+    "lat": 4,
+    "lng": -56,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -8987,7 +9635,10 @@
         "lat": 5.7,
         "lng": -55.23
       }
-    ]
+    ],
+    "currencyEn": "Surinamese Dollar ($)",
+    "currencyTr": "Surinam doları ($)",
+    "areaKm2": 163820
   },
   {
     "code": "SJ",
@@ -9011,12 +9662,15 @@
     "currency": "NOK (kr)",
     "similarityGroup": "",
     "category": "territory",
-    "lat": 78.0,
-    "lng": 20.0,
+    "lat": 78,
+    "lng": 20,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "Norwegian Krone (kr)",
+    "currencyTr": "Norveç kronu (kr)",
+    "areaKm2": 61022
   },
   {
     "code": "SE",
@@ -9041,8 +9695,8 @@
     "currency": "SEK (kr)",
     "similarityGroup": "nordic_simple",
     "category": "sovereign",
-    "lat": 62.0,
-    "lng": 15.0,
+    "lat": 62,
+    "lng": 15,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -9057,9 +9711,12 @@
         "en": "Malmö",
         "tr": "Malmö",
         "lat": 55.61,
-        "lng": 13.0
+        "lng": 13
       }
-    ]
+    ],
+    "currencyEn": "Swedish Krona (kr)",
+    "currencyTr": "İsveç kronu (kr)",
+    "areaKm2": 450295
   },
   {
     "code": "CH",
@@ -9094,8 +9751,8 @@
     "currency": "CHF (Fr.)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 47.0,
-    "lng": 8.0,
+    "lat": 47,
+    "lng": 8,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -9112,7 +9769,10 @@
         "lat": 47.56,
         "lng": 7.57
       }
-    ]
+    ],
+    "currencyEn": "Swiss Franc (Fr.)",
+    "currencyTr": "İsviçre frangı (Fr.)",
+    "areaKm2": 41285
   },
   {
     "code": "SY",
@@ -9137,8 +9797,8 @@
     "currency": "SYP (£)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 35.0,
-    "lng": 38.0,
+    "lat": 35,
+    "lng": 38,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -9155,7 +9815,10 @@
         "lat": 34.72,
         "lng": 36.73
       }
-    ]
+    ],
+    "currencyEn": "Syrian Pound (£)",
+    "currencyTr": "Suriye lirası (£)",
+    "areaKm2": 185180
   },
   {
     "code": "ST",
@@ -9181,12 +9844,15 @@
     "currency": "STN (Db)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 1.0,
-    "lng": 7.0,
+    "lat": 1,
+    "lng": 7,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "São Tomé & Príncipe Dobra (Db)",
+    "currencyTr": "Sao Tome ve Principe dobrası (Db)",
+    "areaKm2": 964
   },
   {
     "code": "TW",
@@ -9213,7 +9879,7 @@
     "similarityGroup": "",
     "category": "defacto",
     "lat": 23.5,
-    "lng": 121.0,
+    "lng": 121,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -9230,7 +9896,10 @@
         "lat": 22.62,
         "lng": 120.31
       }
-    ]
+    ],
+    "currencyEn": "New Taiwan Dollar ($)",
+    "currencyTr": "Yeni Tayvan doları ($)",
+    "areaKm2": 36197
   },
   {
     "code": "TJ",
@@ -9257,8 +9926,8 @@
     "currency": "TJS (ЅМ)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 39.0,
-    "lng": 71.0,
+    "lat": 39,
+    "lng": 71,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -9275,7 +9944,10 @@
         "lat": 37.91,
         "lng": 69.78
       }
-    ]
+    ],
+    "currencyEn": "Tajikistani Somoni (ЅМ)",
+    "currencyTr": "Tacikistan somonisi (ЅМ)",
+    "areaKm2": 143100
   },
   {
     "code": "TZ",
@@ -9303,8 +9975,8 @@
     "currency": "TZS (Sh)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": -6.0,
-    "lng": 35.0,
+    "lat": -6,
+    "lng": 35,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -9321,7 +9993,10 @@
         "lat": -2.52,
         "lng": 32.9
       }
-    ]
+    ],
+    "currencyEn": "Tanzanian Shilling (Sh)",
+    "currencyTr": "Tanzanya şilini (Sh)",
+    "areaKm2": 947303
   },
   {
     "code": "TH",
@@ -9346,8 +10021,8 @@
     "currency": "THB (฿)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 15.0,
-    "lng": 100.0,
+    "lat": 15,
+    "lng": 100,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -9364,7 +10039,10 @@
         "lat": 18.79,
         "lng": 98.98
       }
-    ]
+    ],
+    "currencyEn": "Thai Baht (฿)",
+    "currencyTr": "Tayland bahtı (฿)",
+    "areaKm2": 513120
   },
   {
     "code": "TL",
@@ -9410,7 +10088,10 @@
         "lat": -9.31,
         "lng": 125.26
       }
-    ]
+    ],
+    "currencyEn": "US Dollar ($)",
+    "currencyTr": "ABD Doları ($)",
+    "areaKm2": 14874
   },
   {
     "code": "TG",
@@ -9435,7 +10116,7 @@
     "currency": "XOF (Fr)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 8.0,
+    "lat": 8,
     "lng": 1.16666666,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
@@ -9453,7 +10134,10 @@
         "lat": 9.55,
         "lng": 1.19
       }
-    ]
+    ],
+    "currencyEn": "West African CFA Franc (Fr)",
+    "currencyTr": "Batı Afrika CFA frangı (Fr)",
+    "areaKm2": 56785
   },
   {
     "code": "TK",
@@ -9479,12 +10163,15 @@
     "currency": "NZD ($)",
     "similarityGroup": "",
     "category": "territory",
-    "lat": -9.0,
-    "lng": -172.0,
+    "lat": -9,
+    "lng": -172,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "New Zealand Dollar ($)",
+    "currencyTr": "Yeni Zelanda doları ($)",
+    "areaKm2": 12
   },
   {
     "code": "TO",
@@ -9511,12 +10198,15 @@
     "currency": "TOP (T$)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": -20.0,
-    "lng": -175.0,
+    "lat": -20,
+    "lng": -175,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "Tongan Paʻanga (T$)",
+    "currencyTr": "Tonga paʻangası (T$)",
+    "areaKm2": 747
   },
   {
     "code": "XTR",
@@ -9561,9 +10251,12 @@
         "en": "Rîbnița",
         "tr": "Rîbnița",
         "lat": 47.77,
-        "lng": 29.0
+        "lng": 29
       }
-    ]
+    ],
+    "currencyEn": "Transnistrian Ruble (p.)",
+    "currencyTr": "Transdinyester Rublesi (p.)",
+    "areaKm2": 3086
   },
   {
     "code": "TT",
@@ -9589,8 +10282,8 @@
     "currency": "TTD ($)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 11.0,
-    "lng": -61.0,
+    "lat": 11,
+    "lng": -61,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -9607,7 +10300,10 @@
         "lat": 10.28,
         "lng": -61.45
       }
-    ]
+    ],
+    "currencyEn": "Trinidad & Tobago Dollar ($)",
+    "currencyTr": "Trinidad ve Tobago doları ($)",
+    "areaKm2": 5131
   },
   {
     "code": "TN",
@@ -9633,8 +10329,8 @@
     "currency": "TND (د.ت)",
     "similarityGroup": "turkey_tunisia",
     "category": "sovereign",
-    "lat": 34.0,
-    "lng": 9.0,
+    "lat": 34,
+    "lng": 9,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -9651,7 +10347,10 @@
         "lat": 35.83,
         "lng": 10.64
       }
-    ]
+    ],
+    "currencyEn": "Tunisian Dinar (د.ت)",
+    "currencyTr": "Tunus dinarı (د.ت)",
+    "areaKm2": 163610
   },
   {
     "code": "TM",
@@ -9677,8 +10376,8 @@
     "currency": "TMT (m)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 40.0,
-    "lng": 60.0,
+    "lat": 40,
+    "lng": 60,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -9695,7 +10394,10 @@
         "lat": 41.84,
         "lng": 59.97
       }
-    ]
+    ],
+    "currencyEn": "Turkmenistani Manat (m)",
+    "currencyTr": "Türkmenistan manatı (m)",
+    "areaKm2": 488100
   },
   {
     "code": "TC",
@@ -9729,7 +10431,10 @@
         "lat": 21.78,
         "lng": -72.25
       }
-    ]
+    ],
+    "currencyEn": "US Dollar ($)",
+    "currencyTr": "ABD Doları ($)",
+    "areaKm2": 948
   },
   {
     "code": "TV",
@@ -9753,12 +10458,15 @@
     "currency": "AUD ($)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": -8.0,
-    "lng": 178.0,
+    "lat": -8,
+    "lng": 178,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "Australian Dollar ($)",
+    "currencyTr": "Avustralya doları ($)",
+    "areaKm2": 26
   },
   {
     "code": "TR",
@@ -9785,8 +10493,8 @@
     "currency": "TRY (₺)",
     "similarityGroup": "turkey_tunisia",
     "category": "sovereign",
-    "lat": 39.0,
-    "lng": 35.0,
+    "lat": 39,
+    "lng": 35,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -9803,7 +10511,10 @@
         "lat": 38.41,
         "lng": 27.14
       }
-    ]
+    ],
+    "currencyEn": "Turkish Lira (₺)",
+    "currencyTr": "Türk Lirası (₺)",
+    "areaKm2": 783562
   },
   {
     "code": "UG",
@@ -9830,8 +10541,8 @@
     "currency": "UGX (Sh)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 1.0,
-    "lng": 32.0,
+    "lat": 1,
+    "lng": 32,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -9848,7 +10559,10 @@
         "lat": -0.61,
         "lng": 30.65
       }
-    ]
+    ],
+    "currencyEn": "Ugandan Shilling (Sh)",
+    "currencyTr": "Uganda şilini (Sh)",
+    "areaKm2": 241550
   },
   {
     "code": "UA",
@@ -9872,8 +10586,8 @@
     "currency": "UAH (₴)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 49.0,
-    "lng": 32.0,
+    "lat": 49,
+    "lng": 32,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -9890,7 +10604,10 @@
         "lat": 46.49,
         "lng": 30.74
       }
-    ]
+    ],
+    "currencyEn": "Ukrainian Hryvnia (₴)",
+    "currencyTr": "Ukrayna grivnası (₴)",
+    "areaKm2": 603550
   },
   {
     "code": "AE",
@@ -9917,8 +10634,8 @@
     "currency": "AED (د.إ)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 24.0,
-    "lng": 54.0,
+    "lat": 24,
+    "lng": 54,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -9935,7 +10652,10 @@
         "lat": 25.33,
         "lng": 55.41
       }
-    ]
+    ],
+    "currencyEn": "United Arab Emirates Dirham (د.إ)",
+    "currencyTr": "Birleşik Arap Emirlikleri dirhemi (د.إ)",
+    "areaKm2": 83600
   },
   {
     "code": "GB",
@@ -9965,8 +10685,8 @@
     "currency": "GBP (£)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 54.0,
-    "lng": -2.0,
+    "lat": 54,
+    "lng": -2,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -9983,7 +10703,10 @@
         "lat": 55.87,
         "lng": -4.26
       }
-    ]
+    ],
+    "currencyEn": "British Pound (£)",
+    "currencyTr": "İngiliz Sterlini (£)",
+    "areaKm2": 242495
   },
   {
     "code": "US",
@@ -10014,8 +10737,8 @@
     "currency": "USD ($)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 38.0,
-    "lng": -97.0,
+    "lat": 38,
+    "lng": -97,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -10032,7 +10755,10 @@
         "lat": 34.05,
         "lng": -118.24
       }
-    ]
+    ],
+    "currencyEn": "US Dollar ($)",
+    "currencyTr": "ABD Doları ($)",
+    "areaKm2": 9833517
   },
   {
     "code": "UM",
@@ -10059,7 +10785,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "US Dollar ($)",
+    "currencyTr": "ABD Doları ($)",
+    "areaKm2": 7
   },
   {
     "code": "VI",
@@ -10099,7 +10828,10 @@
         "lat": 17.73,
         "lng": -64.75
       }
-    ]
+    ],
+    "currencyEn": "US Dollar ($)",
+    "currencyTr": "ABD Doları ($)",
+    "areaKm2": 346
   },
   {
     "code": "UY",
@@ -10124,8 +10856,8 @@
     "currency": "UYU ($)",
     "similarityGroup": "rio_de_la_plata",
     "category": "sovereign",
-    "lat": -33.0,
-    "lng": -56.0,
+    "lat": -33,
+    "lng": -56,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -10142,7 +10874,10 @@
         "lat": -34.9,
         "lng": -54.95
       }
-    ]
+    ],
+    "currencyEn": "Uruguayan Peso ($)",
+    "currencyTr": "Uruguay pesosu ($)",
+    "areaKm2": 176215
   },
   {
     "code": "UZ",
@@ -10169,8 +10904,8 @@
     "currency": "UZS (so'm)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 41.0,
-    "lng": 64.0,
+    "lat": 41,
+    "lng": 64,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -10184,10 +10919,13 @@
       {
         "en": "Namangan",
         "tr": "Namangan",
-        "lat": 41.0,
+        "lat": 41,
         "lng": 71.67
       }
-    ]
+    ],
+    "currencyEn": "Uzbekistani Som (so'm)",
+    "currencyTr": "Özbekistan somu (so'm)",
+    "areaKm2": 448978
   },
   {
     "code": "VU",
@@ -10216,12 +10954,15 @@
     "currency": "VUV (Vt)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": -16.0,
-    "lng": 167.0,
+    "lat": -16,
+    "lng": 167,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "Vanuatu Vatu (Vt)",
+    "currencyTr": "Vanuatu vatusu (Vt)",
+    "areaKm2": 12189
   },
   {
     "code": "VA",
@@ -10256,7 +10997,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 0.49
   },
   {
     "code": "VE",
@@ -10282,8 +11026,8 @@
     "currency": "VES (Bs.S.)",
     "similarityGroup": "gran_colombia",
     "category": "sovereign",
-    "lat": 8.0,
-    "lng": -66.0,
+    "lat": 8,
+    "lng": -66,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "easy",
@@ -10298,9 +11042,12 @@
         "en": "Valencia",
         "tr": "Valencia",
         "lat": 10.16,
-        "lng": -68.0
+        "lng": -68
       }
-    ]
+    ],
+    "currencyEn": "Venezuelan Bolívar (Bs.S.)",
+    "currencyTr": "Venezuela bolivarı (Bs.S.)",
+    "areaKm2": 916445
   },
   {
     "code": "VN",
@@ -10347,7 +11094,10 @@
         "lat": 20.86,
         "lng": 106.68
       }
-    ]
+    ],
+    "currencyEn": "Vietnamese Dong (₫)",
+    "currencyTr": "Vietnam dongu (₫)",
+    "areaKm2": 331212
   },
   {
     "code": "GB-WLS",
@@ -10390,9 +11140,12 @@
         "en": "Newport",
         "tr": "Newport",
         "lat": 51.59,
-        "lng": -3.0
+        "lng": -3
       }
-    ]
+    ],
+    "currencyEn": "British Pound (£)",
+    "currencyTr": "İngiliz Sterlini (£)",
+    "areaKm2": 20779
   },
   {
     "code": "WF",
@@ -10421,7 +11174,10 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "CFP Franc (₣)",
+    "currencyTr": "CFP frangı (₣)",
+    "areaKm2": 142
   },
   {
     "code": "EH",
@@ -10450,7 +11206,7 @@
     "similarityGroup": "",
     "category": "defacto",
     "lat": 24.5,
-    "lng": -13.0,
+    "lng": -13,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -10467,7 +11223,10 @@
         "lat": 26.74,
         "lng": -11.67
       }
-    ]
+    ],
+    "currencyEn": "Algerian Dinar (دج)",
+    "currencyTr": "Cezayir dinarı (دج)",
+    "areaKm2": 266000
   },
   {
     "code": "YE",
@@ -10496,8 +11255,8 @@
     "currency": "YER (﷼)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": 15.0,
-    "lng": 48.0,
+    "lat": 15,
+    "lng": 48,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -10514,7 +11273,10 @@
         "lat": 13.58,
         "lng": 44.02
       }
-    ]
+    ],
+    "currencyEn": "Yemeni Rial (﷼)",
+    "currencyTr": "Yemen riyali (﷼)",
+    "areaKm2": 527968
   },
   {
     "code": "ZM",
@@ -10539,8 +11301,8 @@
     "currency": "ZMW (ZK)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": -15.0,
-    "lng": 30.0,
+    "lat": -15,
+    "lng": 30,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
@@ -10557,7 +11319,10 @@
         "lat": -12.96,
         "lng": 28.64
       }
-    ]
+    ],
+    "currencyEn": "Zambian Kwacha (ZK)",
+    "currencyTr": "Zambiya kvaçası (ZK)",
+    "areaKm2": 752612
   },
   {
     "code": "ZW",
@@ -10610,8 +11375,8 @@
     "currency": "ZWG (ZiG)",
     "similarityGroup": "",
     "category": "sovereign",
-    "lat": -20.0,
-    "lng": 30.0,
+    "lat": -20,
+    "lng": 30,
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "medium",
@@ -10628,7 +11393,10 @@
         "lat": -18.01,
         "lng": 31.08
       }
-    ]
+    ],
+    "currencyEn": "Zimbabwe Gold (ZiG)",
+    "currencyTr": "Zimbabve Altını (ZiG)",
+    "areaKm2": 390757
   },
   {
     "code": "AX",
@@ -10657,6 +11425,9 @@
     "flagType": "OFFICIAL_ASSET",
     "flagColors": [],
     "difficulty": "hard",
-    "majorCities": []
+    "majorCities": [],
+    "currencyEn": "Euro (€)",
+    "currencyTr": "Avro (€)",
+    "areaKm2": 1580
   }
 ]

@@ -6225,6 +6225,246 @@
         "tr": "Belçika'nın siyah-sarı-kırmızı şeritleri dikeydir; Almanya'nın siyah-kırmızı-altın şeritleri ise yataydır.",
         "src": "https://en.wikipedia.org/wiki/Flag_of_Belgium"
       }
+    },
+    "AT|LV": {
+      "flag": {
+        "type": "flag",
+        "en": "Austria has three equal red-white-red bands; Latvia uses a darker maroon with a thinner white center stripe (2:1:2).",
+        "tr": "Avusturya bayrağında üç eşit kırmızı-beyaz-kırmızı şerit vardır; Letonya ise daha koyu bordo ve daha ince beyaz orta şerit (2:1:2) kullanır.",
+        "src": "curated"
+      }
+    },
+    "RO|TD": {
+      "flag": {
+        "type": "flag",
+        "en": "Romania and Chad share the exact same blue-yellow-red tricolor; Chad’s blue is slightly darker indigo.",
+        "tr": "Romanya ve Çad aynı mavi-sarı-kırmızı üç şeritli bayrağı paylaşır; Çad’ın mavisi biraz daha koyu çivit tonundadır.",
+        "src": "curated"
+      }
+    },
+    "ID|MC": {
+      "flag": {
+        "type": "flag",
+        "en": "Indonesia and Monaco both have red over white, but Indonesia’s flag is wider (2:3 ratio) while Monaco’s is almost square (4:5).",
+        "tr": "Endonezya ve Monako’nun ikisi de üstte kırmızı altta beyazdır; ancak Endonezya bayrağı daha geniş (2:3), Monako ise neredeyse karedir (4:5).",
+        "src": "curated"
+      }
+    },
+    "ID|PL": {
+      "flag": {
+        "type": "flag",
+        "en": "Indonesia puts red on top and white below; Poland flips it with white on top and red below.",
+        "tr": "Endonezya bayrağında kırmızı üstte beyaz alttadır; Polonya’da ise tam tersi, beyaz üstte kırmızı alttadır.",
+        "src": "curated"
+      }
+    },
+    "MC|PL": {
+      "flag": {
+        "type": "flag",
+        "en": "Monaco has red on top and white on the bottom; Poland has white on top and red on the bottom.",
+        "tr": "Monako’da kırmızı üstte beyaz alttadır; Polonya’da ise beyaz üstte kırmızı alttadır.",
+        "src": "curated"
+      }
+    },
+    "AU|NZ": {
+      "flag": {
+        "type": "flag",
+        "en": "Australia has six white stars including a large Commonwealth Star under the Union Jack; New Zealand has four red stars with white borders.",
+        "tr": "Avustralya bayrağında Union Jack’in altında büyük bir yıldızla toplam altı beyaz yıldız vardır; Yeni Zelanda’da ise beyaz kenarlı dört kırmızı yıldız bulunur.",
+        "src": "curated"
+      }
+    },
+    "PY|UY": {
+      "location": {
+        "type": "location",
+        "en": "Paraguay is landlocked in the interior of South America; Uruguay sits on the Atlantic coast between Brazil and Argentina.",
+        "tr": "Paraguay Güney Amerika’nın iç kesiminde denize kıyısı olmayan bir ülkedir; Uruguay ise Brezilya ile Arjantin arasında Atlas Okyanusu kıyısındadır.",
+        "src": "curated"
+      }
+    },
+    "GN|ML": {
+      "flag": {
+        "type": "flag",
+        "en": "Guinea’s vertical tricolor runs red-yellow-green from the hoist; Mali’s runs in the reverse order: green-yellow-red.",
+        "tr": "Gine’nin dikey şeritleri soldan sağa kırmızı-sarı-yeşildir; Mali’de ise tam tersi sırada yeşil-sarı-kırmızıdır.",
+        "src": "curated"
+      }
+    },
+    "IN|NE": {
+      "flag": {
+        "type": "flag",
+        "en": "Both use orange-white-green stripes, but India’s center has a navy 24-spoke wheel (Ashoka Chakra) while Niger has a solid orange circle.",
+        "tr": "İkisi de turuncu-beyaz-yeşil yatay şeritlidir; Hindistan’ın ortasında lacivert 24 kollu çark (Aşoka Çakrası), Nijer’de ise düz turuncu daire vardır.",
+        "src": "curated"
+      }
+    },
+    "CO|EC": {
+      "flag": {
+        "type": "flag",
+        "en": "Both share the yellow-blue-red tricolor with a double-width yellow top band, but Ecuador carries its coat of arms in the center.",
+        "tr": "İkisi de üstte çift genişlikli sarı olmak üzere sarı-mavi-kırmızı şeritlidir; ancak Ekvador’un ortasında devlet arması bulunur.",
+        "src": "curated"
+      }
+    },
+    "CO|VE": {
+      "flag": {
+        "type": "flag",
+        "en": "Colombia’s yellow band takes up half the flag with no emblem; Venezuela has three equal bands with an arc of eight white stars in the blue.",
+        "tr": "Kolombiya’da sarı şerit bayrağın yarısını kaplar ve sembol yoktur; Venezuela’da üç eşit şerit ve ortadaki mavide sekiz beyaz yıldızlı bir yay bulunur.",
+        "src": "curated"
+      }
+    },
+    "EC|VE": {
+      "flag": {
+        "type": "flag",
+        "en": "Ecuador has a wide yellow top band and a central coat of arms; Venezuela has equal stripes with an arc of eight white stars.",
+        "tr": "Ekvador’un üstteki sarı şeridi geniştir ve ortada arması vardır; Venezuela’da şeritler eşittir ve ortada sekiz beyaz yıldızlı yay bulunur.",
+        "src": "curated"
+      }
+    },
+    "HN|NI": {
+      "flag": {
+        "type": "flag",
+        "en": "Both have blue-white-blue stripes; Honduras places five blue stars in an X pattern, while Nicaragua shows a triangular coat of arms.",
+        "tr": "İkisi de mavi-beyaz-mavi şeritlidir; Honduras’ta ortada X biçiminde beş mavi yıldız, Nikaragua’da ise üçgen devlet arması yer alır.",
+        "src": "curated"
+      }
+    },
+    "HN|SV": {
+      "flag": {
+        "type": "flag",
+        "en": "Honduras features five turquoise stars in the white band; El Salvador features a round coat of arms with a Phrygian cap and rainbow.",
+        "tr": "Honduras’ın beyaz şeridinde beş turkuaz yıldız vardır; El Salvador’da ise gökkuşağı ve Frig başlığı içeren yuvarlak arma bulunur.",
+        "src": "curated"
+      }
+    },
+    "AR|UY": {
+      "flag": {
+        "type": "flag",
+        "en": "Argentina has three broad light-blue and white stripes with a central sun; Uruguay has nine alternating stripes with the sun in the top-left canton.",
+        "tr": "Arjantin’de üç geniş açık mavi-beyaz şerit ve ortada güneş vardır; Uruguay’da ise dokuz şerit ve sol üst köşede güneş yer alır.",
+        "src": "curated"
+      }
+    },
+    "DK|NO": {
+      "flag": {
+        "type": "flag",
+        "en": "Denmark has a plain white Nordic cross on red; Norway adds a dark blue cross inside the white cross.",
+        "tr": "Danimarka bayrağında kırmızı zemin üzerinde sade beyaz İskandinav haçı vardır; Norveç beyaz haçın içine koyu mavi bir haç daha ekler.",
+        "src": "curated"
+      }
+    },
+    "FI|SE": {
+      "flag": {
+        "type": "flag",
+        "en": "Finland uses a blue Nordic cross on white; Sweden uses a yellow Nordic cross on blue.",
+        "tr": "Finlandiya beyaz zemin üzerine mavi İskandinav haçı kullanır; İsveç ise mavi zemin üzerine sarı haç kullanır.",
+        "src": "curated"
+      }
+    },
+    "IS|NO": {
+      "flag": {
+        "type": "flag",
+        "en": "Iceland and Norway are color inversions: Iceland is blue with a white-bordered red cross, while Norway is red with a white-bordered blue cross.",
+        "tr": "İzlanda ve Norveç birbirinin renk tersidir: İzlanda mavi zeminde beyaz kenarlı kırmızı haç, Norveç kırmızı zeminde beyaz kenarlı mavi haç taşır.",
+        "src": "curated"
+      }
+    },
+    "EG|YE": {
+      "flag": {
+        "type": "flag",
+        "en": "Both share red-white-black horizontal stripes; Egypt places the golden Eagle of Saladin in the white band, whereas Yemen’s white band is blank.",
+        "tr": "İkisi de kırmızı-beyaz-siyah yatay şeritlidir; Mısır’ın beyaz şeridinde altın Selahaddin Kartalı vardır, Yemen’in beyaz şeridi ise boştur.",
+        "src": "curated"
+      }
+    },
+    "IQ|SY": {
+      "flag": {
+        "type": "flag",
+        "en": "Both are red-white-black tricolors; Iraq carries green Arabic script (\"Allahu Akbar\") in the center, while Syria carries stars.",
+        "tr": "İkisi de kırmızı-beyaz-siyah üç şeritlidir; Irak’ın ortasında yeşil Arapça yazı (\"Allahu Ekber\"), Suriye’de ise yıldızlar bulunur.",
+        "src": "curated"
+      }
+    },
+    "JO|PS": {
+      "flag": {
+        "type": "flag",
+        "en": "Both share black-white-green stripes with a red hoist triangle; Jordan adds a seven-pointed white star inside the red triangle, Palestine has none.",
+        "tr": "İkisi de siyah-beyaz-yeşil şeritler ve kırmızı üçgene sahiptir; Ürdün’ün kırmızı üçgeninde yedi köşeli beyaz yıldız vardır, Filistin’de yıldız yoktur.",
+        "src": "curated"
+      }
+    },
+    "TN|TR": {
+      "flag": {
+        "type": "flag",
+        "en": "Turkey places a white crescent and star directly on red; Tunisia encloses a red crescent and star inside a central white circle.",
+        "tr": "Türkiye bayrağında beyaz ay-yıldız doğrudan kırmızı zemin üzerindedir; Tunus’ta ise kırmızı ay-yıldız ortadaki beyaz dairenin içindedir.",
+        "src": "curated"
+      }
+    },
+    "BD|JP": {
+      "flag": {
+        "type": "flag",
+        "en": "Japan centers a crimson circle on a white field; Bangladesh puts a red circle slightly off-center toward the hoist on a dark green field.",
+        "tr": "Japonya beyaz zemin ortasında kırmızı daire taşır; Bangladeş ise koyu yeşil zemin üzerinde direğe biraz yakın kırmızı daire kullanır.",
+        "src": "curated"
+      }
+    },
+    "JP|PW": {
+      "flag": {
+        "type": "flag",
+        "en": "Japan has a red sun on white; Palau has a golden full moon slightly off-center on sky blue.",
+        "tr": "Japonya beyaz üzerinde kırmızı güneş taşır; Palau ise gök mavisi üzerinde hafif sola kayık altın sarısı dolunay taşır.",
+        "src": "curated"
+      }
+    },
+    "HU|IT": {
+      "flag": {
+        "type": "flag",
+        "en": "Hungary’s red-white-green stripes are horizontal; Italy’s green-white-red stripes are vertical.",
+        "tr": "Macaristan’ın kırmızı-beyaz-yeşil şeritleri yataydır; İtalya’nın yeşil-beyaz-kırmızı şeritleri ise dikeydir.",
+        "src": "curated"
+      }
+    },
+    "IE|IT": {
+      "flag": {
+        "type": "flag",
+        "en": "Ireland uses green-white-orange vertical bands; Italy uses green-white-red vertical bands.",
+        "tr": "İrlanda dikey yeşil-beyaz-turuncu şeritler kullanır; İtalya ise dikey yeşil-beyaz-kırmızı şeritler kullanır.",
+        "src": "curated"
+      }
+    },
+    "LR|US": {
+      "flag": {
+        "type": "flag",
+        "en": "The United States has 50 stars and 13 stripes; Liberia has a single large white star in the blue canton and 11 stripes.",
+        "tr": "ABD bayrağında 50 yıldız ve 13 şerit vardır; Liberya’da ise mavi köşede tek bir büyük beyaz yıldız ve 11 şerit bulunur.",
+        "src": "curated"
+      }
+    },
+    "MY|US": {
+      "flag": {
+        "type": "flag",
+        "en": "Both have 13–14 red and white stripes and a blue canton, but Malaysia places a yellow crescent and 14-point star in the canton instead of 50 white stars.",
+        "tr": "İkisi de kırmızı-beyaz şeritlere ve mavi köşeye sahiptir; ancak Malezya’da 50 beyaz yıldız yerine sarı hilal ve 14 köşeli yıldız bulunur.",
+        "src": "curated"
+      }
+    },
+    "CH|TO": {
+      "flag": {
+        "type": "flag",
+        "en": "Switzerland is a square red flag with a centered white cross; Tonga is rectangular with a red cross inside a white upper-left canton.",
+        "tr": "İsviçre ortasında beyaz haç bulunan kare bir kırmızı bayraktır; Tonga ise dikdörtgendir ve sol üstteki beyaz köşede kırmızı haç taşır.",
+        "src": "curated"
+      }
+    },
+    "CN|VN": {
+      "flag": {
+        "type": "flag",
+        "en": "Vietnam has one large centered yellow star on red; China has one large star flanked by an arc of four smaller stars in the upper-left corner.",
+        "tr": "Vietnam bayrağında kırmızı zemin ortasında tek bir büyük sarı yıldız vardır; Çin’de ise sol üstte bir büyük ve yay biçiminde dört küçük yıldız yer alır.",
+        "src": "curated"
+      }
     }
   }
 }
